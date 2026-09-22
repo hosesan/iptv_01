@@ -1,7 +1,7 @@
-#EXTM3U x-tvg-url="https://iptvs.mybacc.com/api/export/epg.xml.gz" build-version="20260922043909"
-# [Debug Info] Client IP: 52.250.210.69 | Detected ISP: None | Detected Province: None
-# Playlist Version: v20260922043909
-# Generated At: 2026-09-22 04:39:09
+#EXTM3U x-tvg-url="https://iptvs.mybacc.com/api/export/epg.xml.gz" build-version="20260923035507"
+# [Debug Info] Client IP: 132.196.32.54 | Detected ISP: None | Detected Province: None
+# Playlist Version: v20260923035507
+# Generated At: 2026-09-23 03:55:07
 #EXTINF:-1 tvg-id="邵氏影院" tvg-name="邵氏影院" tvg-logo="https://iptv-cdn.mybacc.com/logo/邵氏影院.png" group-title="轮播频道",邵氏影院
 http://live.nctv.top/douyu1.php?id=4246519
 #EXTINF:-1 tvg-id="邵氏影院" tvg-name="邵氏影院" tvg-logo="https://iptv-cdn.mybacc.com/logo/邵氏影院.png" group-title="轮播频道",邵氏影院
@@ -67,8 +67,6 @@ https://live.ottiptv.cc/yy/1354658048
 #EXTINF:-1 tvg-id="寻秦记" tvg-name="寻秦记" tvg-logo="https://iptv-cdn.mybacc.com/logo/寻秦记.png" group-title="轮播频道",寻秦记
 https://live.metshop.top/yy/1354658048
 #EXTINF:-1 tvg-id="寻秦记" tvg-name="寻秦记" tvg-logo="https://iptv-cdn.mybacc.com/logo/寻秦记.png" group-title="轮播频道",寻秦记
-https://live.metshop.top/huya/29465848
-#EXTINF:-1 tvg-id="寻秦记" tvg-name="寻秦记" tvg-logo="https://iptv-cdn.mybacc.com/logo/寻秦记.png" group-title="轮播频道",寻秦记
 https://live.ottiptv.cc/yy/1382749900
 #EXTINF:-1 tvg-id="父母爱情" tvg-name="父母爱情" tvg-logo="https://iptv-cdn.mybacc.com/logo/父母爱情.png" group-title="轮播频道",父母爱情
 http://footyun.top:35455/yy/1382851594
@@ -92,8 +90,6 @@ https://live.ottiptv.cc/yy/1382746276
 http://footyun.top:35455/yy/1354806550
 #EXTINF:-1 tvg-id="鸡毛飞上天" tvg-name="鸡毛飞上天" tvg-logo="https://iptv-cdn.mybacc.com/logo/鸡毛飞上天.png" group-title="轮播频道",鸡毛飞上天
 https://live.metshop.top/yy/1354806550
-#EXTINF:-1 tvg-id="鸡毛飞上天" tvg-name="鸡毛飞上天" tvg-logo="https://iptv-cdn.mybacc.com/logo/鸡毛飞上天.png" group-title="轮播频道",鸡毛飞上天
-http://cfss.cc/cdn/yy/1354806550.flv
 #EXTINF:-1 tvg-id="我的前半生" tvg-name="我的前半生" tvg-logo="https://iptv-cdn.mybacc.com/logo/我的前半生.png" group-title="轮播频道",我的前半生
 http://footyun.top:35455/yy/1382735564
 #EXTINF:-1 tvg-id="我的前半生" tvg-name="我的前半生" tvg-logo="https://iptv-cdn.mybacc.com/logo/我的前半生.png" group-title="轮播频道",我的前半生
@@ -114,6 +110,10 @@ https://live.metshop.top/yy/1382851599
 https://live.ottiptv.cc/yy/1382851599
 #EXTINF:-1 tvg-id="破案港剧" tvg-name="破案港剧" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",破案港剧
 http://footyun.top:35455/yy/1350670730
+#EXTINF:-1 tvg-id="破案港剧" tvg-name="破案港剧" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",破案港剧
+https://live.ottiptv.cc/yy/1350670730
+#EXTINF:-1 tvg-id="破案港剧" tvg-name="破案港剧" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",破案港剧
+https://live.metshop.top/yy/1350670730
 #EXTINF:-1 tvg-id="港剧警犬巴打" tvg-name="港剧-警犬巴打" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",港剧-警犬巴打
 http://footyun.top:35455/yy/1354932397
 #EXTINF:-1 tvg-id="港剧警犬巴打" tvg-name="港剧-警犬巴打" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",港剧-警犬巴打
@@ -122,8 +122,6 @@ https://live.ottiptv.cc/yy/1354932397
 https://live.metshop.top/yy/1354932397
 #EXTINF:-1 tvg-id="港剧流金岁月" tvg-name="港剧-流金岁月" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",港剧-流金岁月
 http://footyun.top:35455/yy/1382736891
-#EXTINF:-1 tvg-id="港剧流金岁月" tvg-name="港剧-流金岁月" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",港剧-流金岁月
-http://cfss.cc/cdn/yy/1382736891.flv
 #EXTINF:-1 tvg-id="成龙系列" tvg-name="成龙系列" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",成龙系列
 http://footyun.top:35455/yy/1354888751
 #EXTINF:-1 tvg-id="成龙系列" tvg-name="成龙系列" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",成龙系列
@@ -154,6 +152,12 @@ http://footyun.top:35455/yy/1382851522
 https://live.metshop.top/yy/1382851522
 #EXTINF:-1 tvg-id="国内动作" tvg-name="国内动作" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",国内动作
 https://live.ottiptv.cc/yy/1382851522
+#EXTINF:-1 tvg-id="国内动作" tvg-name="国内动作" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",国内动作
+https://live.ottiptv.cc/yy/1382745176
+#EXTINF:-1 tvg-id="国内动作" tvg-name="国内动作" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",国内动作
+https://live.metshop.top/yy/1382745176
+#EXTINF:-1 tvg-id="国内动作" tvg-name="国内动作" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",国内动作
+http://footyun.top:35455/yy/1382745176
 #EXTINF:-1 tvg-id="国外科幻" tvg-name="国外科幻" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",国外科幻
 http://footyun.top:35455/yy/1382736800
 #EXTINF:-1 tvg-id="国外科幻" tvg-name="国外科幻" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",国外科幻
@@ -161,15 +165,11 @@ https://live.metshop.top/yy/1382736800
 #EXTINF:-1 tvg-id="国外科幻" tvg-name="国外科幻" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",国外科幻
 https://live.ottiptv.cc/yy/1382736800
 #EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="https://iptv-cdn.mybacc.com/logo/赛事最经典.png" group-title="轮播频道",赛事最经典
-http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/saishijingdian/600/index.m3u8?msisdn=20260921220304609c585a1108417791e6364a8faf9bf9&mdspid=&spid=699004&netType=0&sid=5500592947&pid=2028597139&timestamp=20260921220304&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=646596895&ParentNodeID=-99&assertID=5500592947&client_ip=171.8.79.254&SecurityKey=20260921220304&promotionId=&mvid=5101034296&mcid=500020&playurlVersion=WX-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=408bb6222e3c3e70f5cea86f171cec0a
-#EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="https://iptv-cdn.mybacc.com/logo/赛事最经典.png" group-title="轮播频道",赛事最经典
 http://122.227.204.50:1905/646596895
 #EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="https://iptv-cdn.mybacc.com/logo/赛事最经典.png" group-title="轮播频道",赛事最经典
 http://82.156.245.233:30008/646596895
 #EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="https://iptv-cdn.mybacc.com/logo/赛事最经典.png" group-title="轮播频道",赛事最经典
 http://113.98.11.46:3000/646596895
-#EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="https://iptv-cdn.mybacc.com/logo/赛事最经典.png" group-title="轮播频道",赛事最经典
-http://47.104.178.59:3566/646596895
 #EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="https://iptv-cdn.mybacc.com/logo/赛事最经典.png" group-title="轮播频道",赛事最经典
 http://2280.eu.org:1234/646596895
 #EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="https://iptv-cdn.mybacc.com/logo/赛事最经典.png" group-title="轮播频道",赛事最经典
@@ -180,8 +180,10 @@ http://42.94.210.135:7788/646596895
 http://222.213.105.65:7788/646596895
 #EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="https://iptv-cdn.mybacc.com/logo/赛事最经典.png" group-title="轮播频道",赛事最经典
 http://27.12.12.103:1234/646596895
-#EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" tvg-logo="https://iptv-cdn.mybacc.com/logo/体坛名栏汇.png" group-title="轮播频道",体坛名栏汇
-http://47.104.178.59:3566/629943305
+#EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="https://iptv-cdn.mybacc.com/logo/赛事最经典.png" group-title="轮播频道",赛事最经典
+http://223.247.25.208:1234/646596895
+#EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="https://iptv-cdn.mybacc.com/logo/赛事最经典.png" group-title="轮播频道",赛事最经典
+http://47.100.80.251:50001/646596895
 #EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" tvg-logo="https://iptv-cdn.mybacc.com/logo/体坛名栏汇.png" group-title="轮播频道",体坛名栏汇
 http://2280.eu.org:1234/629943305
 #EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" tvg-logo="https://iptv-cdn.mybacc.com/logo/体坛名栏汇.png" group-title="轮播频道",体坛名栏汇
@@ -200,6 +202,8 @@ http://116.236.204.18:1234/629943305
 http://222.213.105.65:7788/629943305
 #EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" tvg-logo="https://iptv-cdn.mybacc.com/logo/体坛名栏汇.png" group-title="轮播频道",体坛名栏汇
 http://47.100.80.251:50001/629943305
+#EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" tvg-logo="https://iptv-cdn.mybacc.com/logo/体坛名栏汇.png" group-title="轮播频道",体坛名栏汇
+http://27.12.12.103:1234/629943305
 #EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="https://iptv-cdn.mybacc.com/logo/抗战经典影片.png" group-title="轮播频道",抗战经典影片
 http://113.98.11.46:3000/617432318
 #EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="https://iptv-cdn.mybacc.com/logo/抗战经典影片.png" group-title="轮播频道",抗战经典影片
@@ -207,27 +211,25 @@ http://117.63.79.167:1234/617432318
 #EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="https://iptv-cdn.mybacc.com/logo/抗战经典影片.png" group-title="轮播频道",抗战经典影片
 http://42.94.210.135:7788/617432318
 #EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="https://iptv-cdn.mybacc.com/logo/抗战经典影片.png" group-title="轮播频道",抗战经典影片
-http://47.104.178.59:3566/617432318
-#EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="https://iptv-cdn.mybacc.com/logo/抗战经典影片.png" group-title="轮播频道",抗战经典影片
 http://122.227.204.50:1905/617432318
 #EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="https://iptv-cdn.mybacc.com/logo/抗战经典影片.png" group-title="轮播频道",抗战经典影片
 http://36.104.221.118:7788/617432318
 #EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="https://iptv-cdn.mybacc.com/logo/抗战经典影片.png" group-title="轮播频道",抗战经典影片
 http://116.236.204.18:1234/617432318
 #EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="https://iptv-cdn.mybacc.com/logo/抗战经典影片.png" group-title="轮播频道",抗战经典影片
-http://116.52.173.191:1234/617432318
-#EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="https://iptv-cdn.mybacc.com/logo/抗战经典影片.png" group-title="轮播频道",抗战经典影片
 http://223.247.25.208:1234/617432318
 #EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="https://iptv-cdn.mybacc.com/logo/抗战经典影片.png" group-title="轮播频道",抗战经典影片
 http://103.236.77.86:29824/617432318
+#EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="https://iptv-cdn.mybacc.com/logo/抗战经典影片.png" group-title="轮播频道",抗战经典影片
+http://2280.eu.org:1234/617432318
+#EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="https://iptv-cdn.mybacc.com/logo/抗战经典影片.png" group-title="轮播频道",抗战经典影片
+http://27.12.12.103:1234/617432318
 #EXTINF:-1 tvg-id="和美乡途轮播台" tvg-name="和美乡途轮播台" tvg-logo="https://iptv-cdn.mybacc.com/logo/和美乡途轮播台.png" group-title="轮播频道",和美乡途轮播台
 http://82.156.245.233:30008/713591450
 #EXTINF:-1 tvg-id="和美乡途轮播台" tvg-name="和美乡途轮播台" tvg-logo="https://iptv-cdn.mybacc.com/logo/和美乡途轮播台.png" group-title="轮播频道",和美乡途轮播台
 http://122.227.204.50:1905/713591450
 #EXTINF:-1 tvg-id="和美乡途轮播台" tvg-name="和美乡途轮播台" tvg-logo="https://iptv-cdn.mybacc.com/logo/和美乡途轮播台.png" group-title="轮播频道",和美乡途轮播台
 http://113.98.11.46:3000/713591450
-#EXTINF:-1 tvg-id="和美乡途轮播台" tvg-name="和美乡途轮播台" tvg-logo="https://iptv-cdn.mybacc.com/logo/和美乡途轮播台.png" group-title="轮播频道",和美乡途轮播台
-http://47.104.178.59:3566/713591450
 #EXTINF:-1 tvg-id="和美乡途轮播台" tvg-name="和美乡途轮播台" tvg-logo="https://iptv-cdn.mybacc.com/logo/和美乡途轮播台.png" group-title="轮播频道",和美乡途轮播台
 http://47.100.80.251:50001/713591450
 #EXTINF:-1 tvg-id="和美乡途轮播台" tvg-name="和美乡途轮播台" tvg-logo="https://iptv-cdn.mybacc.com/logo/和美乡途轮播台.png" group-title="轮播频道",和美乡途轮播台
@@ -240,10 +242,10 @@ http://223.247.25.208:1234/713591450
 http://222.213.105.65:7788/713591450
 #EXTINF:-1 tvg-id="和美乡途轮播台" tvg-name="和美乡途轮播台" tvg-logo="https://iptv-cdn.mybacc.com/logo/和美乡途轮播台.png" group-title="轮播频道",和美乡途轮播台
 http://116.236.204.18:1234/713591450
+#EXTINF:-1 tvg-id="和美乡途轮播台" tvg-name="和美乡途轮播台" tvg-logo="https://iptv-cdn.mybacc.com/logo/和美乡途轮播台.png" group-title="轮播频道",和美乡途轮播台
+http://103.236.77.86:29824/713591450
 #EXTINF:-1 tvg-id="最强综艺趴" tvg-name="最强综艺趴" tvg-logo="https://iptv-cdn.mybacc.com/logo/最强综艺趴.png" group-title="轮播频道",最强综艺趴
 http://82.156.245.233:30008/629942228
-#EXTINF:-1 tvg-id="最强综艺趴" tvg-name="最强综艺趴" tvg-logo="https://iptv-cdn.mybacc.com/logo/最强综艺趴.png" group-title="轮播频道",最强综艺趴
-http://47.104.178.59:3566/629942228
 #EXTINF:-1 tvg-id="最强综艺趴" tvg-name="最强综艺趴" tvg-logo="https://iptv-cdn.mybacc.com/logo/最强综艺趴.png" group-title="轮播频道",最强综艺趴
 http://122.227.204.50:1905/629942228
 #EXTINF:-1 tvg-id="最强综艺趴" tvg-name="最强综艺趴" tvg-logo="https://iptv-cdn.mybacc.com/logo/最强综艺趴.png" group-title="轮播频道",最强综艺趴
@@ -260,12 +262,10 @@ http://103.236.77.86:29824/629942228
 http://116.236.204.18:1234/629942228
 #EXTINF:-1 tvg-id="最强综艺趴" tvg-name="最强综艺趴" tvg-logo="https://iptv-cdn.mybacc.com/logo/最强综艺趴.png" group-title="轮播频道",最强综艺趴
 http://47.100.80.251:50001/629942228
-#EXTINF:-1 tvg-id="经典动画大集合" tvg-name="经典动画大集合" tvg-logo="https://iptv-cdn.mybacc.com/logo/经典动画大集合.png" group-title="轮播频道",经典动画大集合
-http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/jingdiandonghua/600/index.m3u8?msisdn=2026092120030748af6579c1af489dbe97c3a151281cd8&mdspid=&spid=699004&netType=0&sid=5500315652&pid=2028597139&timestamp=20260921200307&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629942219&ParentNodeID=-99&assertID=5500315652&client_ip=171.8.79.254&SecurityKey=20260921200307&promotionId=&mvid=5101034205&mcid=500020&playurlVersion=WX-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=43deedbe876234b6b9ba54974a0bf554
+#EXTINF:-1 tvg-id="最强综艺趴" tvg-name="最强综艺趴" tvg-logo="https://iptv-cdn.mybacc.com/logo/最强综艺趴.png" group-title="轮播频道",最强综艺趴
+http://27.12.12.103:1234/629942228
 #EXTINF:-1 tvg-id="经典动画大集合" tvg-name="经典动画大集合" tvg-logo="https://iptv-cdn.mybacc.com/logo/经典动画大集合.png" group-title="轮播频道",经典动画大集合
 http://122.227.204.50:1905/629942219
-#EXTINF:-1 tvg-id="经典动画大集合" tvg-name="经典动画大集合" tvg-logo="https://iptv-cdn.mybacc.com/logo/经典动画大集合.png" group-title="轮播频道",经典动画大集合
-http://47.104.178.59:3566/629942219
 #EXTINF:-1 tvg-id="经典动画大集合" tvg-name="经典动画大集合" tvg-logo="https://iptv-cdn.mybacc.com/logo/经典动画大集合.png" group-title="轮播频道",经典动画大集合
 http://82.156.245.233:30008/629942219
 #EXTINF:-1 tvg-id="经典动画大集合" tvg-name="经典动画大集合" tvg-logo="https://iptv-cdn.mybacc.com/logo/经典动画大集合.png" group-title="轮播频道",经典动画大集合
@@ -280,8 +280,10 @@ http://222.213.105.65:7788/629942219
 http://27.12.12.103:1234/629942219
 #EXTINF:-1 tvg-id="经典动画大集合" tvg-name="经典动画大集合" tvg-logo="https://iptv-cdn.mybacc.com/logo/经典动画大集合.png" group-title="轮播频道",经典动画大集合
 http://223.247.25.208:1234/629942219
-#EXTINF:-1 tvg-id="24小时城市联赛轮播台" tvg-name="24小时城市联赛轮播台" tvg-logo="https://iptv-cdn.mybacc.com/logo/24小时城市联赛轮播台.png" group-title="轮播频道",24小时城市联赛轮播台
-http://47.104.178.59:3566/915512915
+#EXTINF:-1 tvg-id="经典动画大集合" tvg-name="经典动画大集合" tvg-logo="https://iptv-cdn.mybacc.com/logo/经典动画大集合.png" group-title="轮播频道",经典动画大集合
+http://124.221.146.169:7001/629942219
+#EXTINF:-1 tvg-id="经典动画大集合" tvg-name="经典动画大集合" tvg-logo="https://iptv-cdn.mybacc.com/logo/经典动画大集合.png" group-title="轮播频道",经典动画大集合
+http://47.100.80.251:50001/629942219
 #EXTINF:-1 tvg-id="24小时城市联赛轮播台" tvg-name="24小时城市联赛轮播台" tvg-logo="https://iptv-cdn.mybacc.com/logo/24小时城市联赛轮播台.png" group-title="轮播频道",24小时城市联赛轮播台
 http://113.98.11.46:3000/915512915
 #EXTINF:-1 tvg-id="24小时城市联赛轮播台" tvg-name="24小时城市联赛轮播台" tvg-logo="https://iptv-cdn.mybacc.com/logo/24小时城市联赛轮播台.png" group-title="轮播频道",24小时城市联赛轮播台
@@ -291,8 +293,6 @@ http://222.213.105.65:7788/915512915
 #EXTINF:-1 tvg-id="24小时城市联赛轮播台" tvg-name="24小时城市联赛轮播台" tvg-logo="https://iptv-cdn.mybacc.com/logo/24小时城市联赛轮播台.png" group-title="轮播频道",24小时城市联赛轮播台
 http://122.227.204.50:1905/915512915
 #EXTINF:-1 tvg-id="24小时城市联赛轮播台" tvg-name="24小时城市联赛轮播台" tvg-logo="https://iptv-cdn.mybacc.com/logo/24小时城市联赛轮播台.png" group-title="轮播频道",24小时城市联赛轮播台
-http://www.ikerobot.com:1234/915512915
-#EXTINF:-1 tvg-id="24小时城市联赛轮播台" tvg-name="24小时城市联赛轮播台" tvg-logo="https://iptv-cdn.mybacc.com/logo/24小时城市联赛轮播台.png" group-title="轮播频道",24小时城市联赛轮播台
 http://124.221.146.169:7001/915512915
 #EXTINF:-1 tvg-id="24小时城市联赛轮播台" tvg-name="24小时城市联赛轮播台" tvg-logo="https://iptv-cdn.mybacc.com/logo/24小时城市联赛轮播台.png" group-title="轮播频道",24小时城市联赛轮播台
 http://223.247.25.208:1234/915512915
@@ -300,12 +300,18 @@ http://223.247.25.208:1234/915512915
 http://103.236.77.86:29824/915512915
 #EXTINF:-1 tvg-id="24小时城市联赛轮播台" tvg-name="24小时城市联赛轮播台" tvg-logo="https://iptv-cdn.mybacc.com/logo/24小时城市联赛轮播台.png" group-title="轮播频道",24小时城市联赛轮播台
 http://117.63.79.167:1234/915512915
+#EXTINF:-1 tvg-id="24小时城市联赛轮播台" tvg-name="24小时城市联赛轮播台" tvg-logo="https://iptv-cdn.mybacc.com/logo/24小时城市联赛轮播台.png" group-title="轮播频道",24小时城市联赛轮播台
+http://42.94.210.135:7788/915512915
+#EXTINF:-1 tvg-id="24小时城市联赛轮播台" tvg-name="24小时城市联赛轮播台" tvg-logo="https://iptv-cdn.mybacc.com/logo/24小时城市联赛轮播台.png" group-title="轮播频道",24小时城市联赛轮播台
+http://82.156.245.233:30008/915512915
 #EXTINF:-1 tvg-id="楚汉骄雄" tvg-name="楚汉骄雄" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",楚汉骄雄
 https://live.ottiptv.cc/huya/29465854
 #EXTINF:-1 tvg-id="楚汉骄雄" tvg-name="楚汉骄雄" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",楚汉骄雄
 https://live.metshop.top/huya/29465854
 #EXTINF:-1 tvg-id="楚汉骄雄" tvg-name="楚汉骄雄" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",楚汉骄雄
 http://live.metshop.top/huya/29465854?cdn=alicdn
+#EXTINF:-1 tvg-id="楚汉骄雄" tvg-name="楚汉骄雄" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",楚汉骄雄
+http://222.186.39.21:35466/huya/29465854
 #EXTINF:-1 tvg-id="封神榜" tvg-name="封神榜" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",封神榜
 http://footyun.top:35455/yy/1353426319
 #EXTINF:-1 tvg-id="封神榜" tvg-name="封神榜" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",封神榜
@@ -334,6 +340,10 @@ http://live.metshop.top/huya/29465859?cdn=alicdn
 https://live.ottiptv.cc/huya/29465859
 #EXTINF:-1 tvg-id="天地争霸美猴王" tvg-name="天地争霸美猴王" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",天地争霸美猴王
 https://live.metshop.top/huya/29465859
+#EXTINF:-1 tvg-id="天地争霸美猴王" tvg-name="天地争霸美猴王" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",天地争霸美猴王
+http://222.186.39.21:35466/huya/29465859
+#EXTINF:-1 tvg-id="天地争霸美猴王" tvg-name="天地争霸美猴王" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",天地争霸美猴王
+https://isus.cc/php/huya.php?id=29465859
 #EXTINF:-1 tvg-id="大唐双龙传" tvg-name="大唐双龙传" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",大唐双龙传
 http://footyun.top:35455/yy/1354930979
 #EXTINF:-1 tvg-id="大唐双龙传" tvg-name="大唐双龙传" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",大唐双龙传
@@ -468,6 +478,8 @@ https://live.metshop.top/huya/23863796
 https://live.ottiptv.cc/huya/23863796
 #EXTINF:-1 tvg-id="野蛮亲家" tvg-name="野蛮亲家" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",野蛮亲家
 http://live.metshop.top/huya/23863796?cdn=alicdn
+#EXTINF:-1 tvg-id="野蛮亲家" tvg-name="野蛮亲家" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",野蛮亲家
+https://isus.cc/php/huya.php?id=23863796
 #EXTINF:-1 tvg-id="笑看风云" tvg-name="笑看风云" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",笑看风云
 http://footyun.top:35455/huya/29465858
 #EXTINF:-1 tvg-id="笑看风云" tvg-name="笑看风云" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",笑看风云
@@ -518,6 +530,8 @@ https://live.ottiptv.cc/huya/29465860
 http://live.metshop.top/huya/29465860?cdn=alicdn
 #EXTINF:-1 tvg-id="港版西游记" tvg-name="港版西游记" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",港版西游记
 https://live.metshop.top/huya/29465860
+#EXTINF:-1 tvg-id="港版西游记" tvg-name="港版西游记" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",港版西游记
+http://222.186.39.21:35466/huya/29465860
 #EXTINF:-1 tvg-id="雪山飞狐" tvg-name="雪山飞狐" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",雪山飞狐
 http://1.14.124.206:35455/huya/23734176
 #EXTINF:-1 tvg-id="雪山飞狐" tvg-name="雪山飞狐" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",雪山飞狐
@@ -526,6 +540,10 @@ http://live.metshop.top/huya/23734176?cdn=alicdn
 https://live.ottiptv.cc/huya/23734176
 #EXTINF:-1 tvg-id="雪山飞狐" tvg-name="雪山飞狐" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",雪山飞狐
 https://live.metshop.top/huya/23734176
+#EXTINF:-1 tvg-id="雪山飞狐" tvg-name="雪山飞狐" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",雪山飞狐
+http://8.155.43.98:35455/huya/23734176
+#EXTINF:-1 tvg-id="雪山飞狐" tvg-name="雪山飞狐" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",雪山飞狐
+https://isus.cc/php/huya.php?id=23734176
 #EXTINF:-1 tvg-id="探案剧专区" tvg-name="探案剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",探案剧专区
 http://footyun.top:35455/huya/20969144
 #EXTINF:-1 tvg-id="探案剧专区" tvg-name="探案剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",探案剧专区
@@ -550,12 +568,20 @@ https://live.ottiptv.cc/huya/29982666
 https://live.metshop.top/huya/29982666
 #EXTINF:-1 tvg-id="都市剧专区" tvg-name="都市剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",都市剧专区
 http://live.metshop.top/huya/29982666?cdn=alicdn
+#EXTINF:-1 tvg-id="都市剧专区" tvg-name="都市剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",都市剧专区
+http://footyun.top:35455/huya/29982666
 #EXTINF:-1 tvg-id="刑侦剧专区" tvg-name="刑侦剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",刑侦剧专区
 http://live.metshop.top/huya/20969130?cdn=alicdn
 #EXTINF:-1 tvg-id="刑侦剧专区" tvg-name="刑侦剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",刑侦剧专区
 https://live.ottiptv.cc/huya/20969130
 #EXTINF:-1 tvg-id="刑侦剧专区" tvg-name="刑侦剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",刑侦剧专区
 https://live.metshop.top/huya/20969130
+#EXTINF:-1 tvg-id="刑侦剧专区" tvg-name="刑侦剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",刑侦剧专区
+http://8.155.43.98:35455/huya/20969130
+#EXTINF:-1 tvg-id="刑侦剧专区" tvg-name="刑侦剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",刑侦剧专区
+https://isus.cc/php/huya.php?id=20969130
+#EXTINF:-1 tvg-id="刑侦剧专区" tvg-name="刑侦剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",刑侦剧专区
+http://footyun.top:35455/huya/20969130
 #EXTINF:-1 tvg-id="家庭剧专区" tvg-name="家庭剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",家庭剧专区
 http://footyun.top:35455/huya/11352872
 #EXTINF:-1 tvg-id="家庭剧专区" tvg-name="家庭剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",家庭剧专区
@@ -564,6 +590,8 @@ http://live.metshop.top/huya/11352872?cdn=alicdn
 https://live.metshop.top/huya/11352872
 #EXTINF:-1 tvg-id="家庭剧专区" tvg-name="家庭剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",家庭剧专区
 https://live.ottiptv.cc/huya/11352872
+#EXTINF:-1 tvg-id="家庭剧专区" tvg-name="家庭剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",家庭剧专区
+http://222.186.39.21:35466/huya/11352872
 #EXTINF:-1 tvg-id="经典剧专区" tvg-name="经典剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",经典剧专区
 http://8.155.43.98:35455/huya/11602081
 #EXTINF:-1 tvg-id="经典剧专区" tvg-name="经典剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",经典剧专区
@@ -580,6 +608,8 @@ https://live.ottiptv.cc/huya/11602081
 http://live.metshop.top/huya/11602081?cdn=alicdn
 #EXTINF:-1 tvg-id="经典剧专区" tvg-name="经典剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",经典剧专区
 https://lbds.us.ci/11602081
+#EXTINF:-1 tvg-id="经典剧专区" tvg-name="经典剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",经典剧专区
+http://footyun.top:35455/huya/11602081
 #EXTINF:-1 tvg-id="怀旧剧专区" tvg-name="怀旧剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",怀旧剧专区
 http://1.14.124.206:35455/huya/30080241
 #EXTINF:-1 tvg-id="怀旧剧专区" tvg-name="怀旧剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",怀旧剧专区
@@ -588,6 +618,8 @@ http://live.metshop.top/huya/30080241?cdn=alicdn
 https://live.ottiptv.cc/huya/30080241
 #EXTINF:-1 tvg-id="怀旧剧专区" tvg-name="怀旧剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",怀旧剧专区
 https://live.metshop.top/huya/30080241
+#EXTINF:-1 tvg-id="怀旧剧专区" tvg-name="怀旧剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",怀旧剧专区
+https://isus.cc/php/huya.php?id=30080241
 #EXTINF:-1 tvg-id="僵尸剧专区" tvg-name="僵尸剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",僵尸剧专区
 http://1.14.124.206:35455/huya/23865148
 #EXTINF:-1 tvg-id="僵尸剧专区" tvg-name="僵尸剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",僵尸剧专区
@@ -596,6 +628,8 @@ http://live.metshop.top/huya/23865148?cdn=alicdn
 https://live.ottiptv.cc/huya/23865148
 #EXTINF:-1 tvg-id="僵尸剧专区" tvg-name="僵尸剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",僵尸剧专区
 https://live.metshop.top/huya/23865148
+#EXTINF:-1 tvg-id="僵尸剧专区" tvg-name="僵尸剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",僵尸剧专区
+https://isus.cc/php/huya.php?id=23865148
 #EXTINF:-1 tvg-id="抗战剧专区" tvg-name="抗战剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",抗战剧专区
 http://footyun.top:35455/huya/30080238
 #EXTINF:-1 tvg-id="抗战剧专区" tvg-name="抗战剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",抗战剧专区
@@ -610,12 +644,16 @@ https://live.ottiptv.cc/huya/30080238
 https://live.metshop.top/huya/30080238
 #EXTINF:-1 tvg-id="抗战剧专区" tvg-name="抗战剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",抗战剧专区
 http://live.metshop.top/huya/30080238?cdn=alicdn
+#EXTINF:-1 tvg-id="抗战剧专区" tvg-name="抗战剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",抗战剧专区
+https://isus.cc/php/huya.php?id=30080238
 #EXTINF:-1 tvg-id="台湾剧专区" tvg-name="台湾剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",台湾剧专区
 https://live.ottiptv.cc/huya/11342436
 #EXTINF:-1 tvg-id="台湾剧专区" tvg-name="台湾剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",台湾剧专区
 http://live.metshop.top/huya/11342436?cdn=alicdn
 #EXTINF:-1 tvg-id="台湾剧专区" tvg-name="台湾剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",台湾剧专区
 https://live.metshop.top/huya/11342436
+#EXTINF:-1 tvg-id="台湾剧专区" tvg-name="台湾剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",台湾剧专区
+https://isus.cc/php/huya.php?id=11342436
 #EXTINF:-1 tvg-id="韩国剧专区" tvg-name="韩国剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",韩国剧专区
 http://8.155.43.98:35455/huya/23863787
 #EXTINF:-1 tvg-id="韩国剧专区" tvg-name="韩国剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",韩国剧专区
@@ -624,6 +662,8 @@ https://live.ottiptv.cc/huya/23863787
 http://live.metshop.top/huya/23863787?cdn=alicdn
 #EXTINF:-1 tvg-id="韩国剧专区" tvg-name="韩国剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",韩国剧专区
 https://live.metshop.top/huya/23863787
+#EXTINF:-1 tvg-id="韩国剧专区" tvg-name="韩国剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",韩国剧专区
+http://222.186.39.21:35466/huya/23863787
 #EXTINF:-1 tvg-id="美国剧专区" tvg-name="美国剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",美国剧专区
 http://222.186.39.21:35466/huya/30080138
 #EXTINF:-1 tvg-id="美国剧专区" tvg-name="美国剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",美国剧专区
@@ -638,6 +678,8 @@ http://footyun.top:35455/huya/30080138
 https://live.metshop.top/huya/30080138
 #EXTINF:-1 tvg-id="美国剧专区" tvg-name="美国剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",美国剧专区
 http://live.metshop.top/huya/30080138?cdn=alicdn
+#EXTINF:-1 tvg-id="美国剧专区" tvg-name="美国剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",美国剧专区
+https://isus.cc/php/huya.php?id=30080138
 #EXTINF:-1 tvg-id="英国剧专区" tvg-name="英国剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",英国剧专区
 http://footyun.top:35455/huya/29982659
 #EXTINF:-1 tvg-id="英国剧专区" tvg-name="英国剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",英国剧专区
@@ -658,14 +700,32 @@ http://live.metshop.top/huya/30080228?cdn=alicdn
 https://live.metshop.top/huya/30080228
 #EXTINF:-1 tvg-id="校园剧专区" tvg-name="校园剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",校园剧专区
 https://live.ottiptv.cc/huya/30080228
+#EXTINF:-1 tvg-id="校园剧专区" tvg-name="校园剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",校园剧专区
+http://8.155.43.98:35455/huya/30080228
+#EXTINF:-1 tvg-id="校园剧专区" tvg-name="校园剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",校园剧专区
+http://222.186.39.21:35466/huya/30080228
+#EXTINF:-1 tvg-id="校园剧专区" tvg-name="校园剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",校园剧专区
+https://isus.cc/php/huya.php?id=30080228
+#EXTINF:-1 tvg-id="校园剧专区" tvg-name="校园剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",校园剧专区
+http://footyun.top:35455/huya/30080228
 #EXTINF:-1 tvg-id="谍战剧专区" tvg-name="谍战剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",谍战剧专区
 https://live.ottiptv.cc/huya/30080225
 #EXTINF:-1 tvg-id="谍战剧专区" tvg-name="谍战剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",谍战剧专区
 https://live.metshop.top/huya/30080225
 #EXTINF:-1 tvg-id="谍战剧专区" tvg-name="谍战剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",谍战剧专区
 http://live.metshop.top/huya/30080225?cdn=alicdn
+#EXTINF:-1 tvg-id="谍战剧专区" tvg-name="谍战剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",谍战剧专区
+http://8.155.43.98:35455/huya/30080225
+#EXTINF:-1 tvg-id="谍战剧专区" tvg-name="谍战剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",谍战剧专区
+http://222.186.39.21:35466/huya/30080225
+#EXTINF:-1 tvg-id="谍战剧专区" tvg-name="谍战剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",谍战剧专区
+https://isus.cc/php/huya.php?id=30080225
+#EXTINF:-1 tvg-id="谍战剧专区" tvg-name="谍战剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",谍战剧专区
+http://footyun.top:35455/huya/30080225
 #EXTINF:-1 tvg-id="古装剧专区" tvg-name="古装剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",古装剧专区
 https://isus.cc/php/huya.php?id=24314158
+#EXTINF:-1 tvg-id="古装剧专区" tvg-name="古装剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",古装剧专区
+http://footyun.top:35455/huya/24314158
 #EXTINF:-1 tvg-id="乡村剧专区" tvg-name="乡村剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",乡村剧专区
 http://footyun.top:35455/huya/30080255
 #EXTINF:-1 tvg-id="乡村剧专区" tvg-name="乡村剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",乡村剧专区
@@ -680,6 +740,8 @@ https://live.ottiptv.cc/huya/30080255
 http://live.metshop.top/huya/30080255?cdn=alicdn
 #EXTINF:-1 tvg-id="乡村剧专区" tvg-name="乡村剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",乡村剧专区
 https://live.metshop.top/huya/30080255
+#EXTINF:-1 tvg-id="乡村剧专区" tvg-name="乡村剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",乡村剧专区
+http://222.186.39.21:35466/huya/30080255
 #EXTINF:-1 tvg-id="偶像剧专区" tvg-name="偶像剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",偶像剧专区
 http://1.14.124.206:35455/huya/11601964
 #EXTINF:-1 tvg-id="偶像剧专区" tvg-name="偶像剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",偶像剧专区
@@ -698,6 +760,10 @@ http://live.metshop.top/huya/29982671?cdn=alicdn
 https://live.ottiptv.cc/huya/29982671
 #EXTINF:-1 tvg-id="爱情剧专区" tvg-name="爱情剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",爱情剧专区
 https://live.metshop.top/huya/29982671
+#EXTINF:-1 tvg-id="爱情剧专区" tvg-name="爱情剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",爱情剧专区
+http://8.155.43.98:35455/huya/29982671
+#EXTINF:-1 tvg-id="爱情剧专区" tvg-name="爱情剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",爱情剧专区
+http://footyun.top:35455/huya/29982671
 #EXTINF:-1 tvg-id="搞笑剧专区" tvg-name="搞笑剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",搞笑剧专区
 http://live.metshop.top/huya/21059634?cdn=alicdn
 #EXTINF:-1 tvg-id="搞笑剧专区" tvg-name="搞笑剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",搞笑剧专区
@@ -706,6 +772,12 @@ https://live.ottiptv.cc/huya/21059634
 https://live.metshop.top/huya/21059634
 #EXTINF:-1 tvg-id="搞笑剧专区" tvg-name="搞笑剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",搞笑剧专区
 https://isus.cc/php/huya.php?id=21059634
+#EXTINF:-1 tvg-id="搞笑剧专区" tvg-name="搞笑剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",搞笑剧专区
+http://8.155.43.98:35455/huya/21059634
+#EXTINF:-1 tvg-id="搞笑剧专区" tvg-name="搞笑剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",搞笑剧专区
+http://222.186.39.21:35466/huya/21059634
+#EXTINF:-1 tvg-id="搞笑剧专区" tvg-name="搞笑剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",搞笑剧专区
+http://footyun.top:35455/huya/21059634
 #EXTINF:-1 tvg-id="武侠剧专区" tvg-name="武侠剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",武侠剧专区
 http://1.14.124.206:35455/huya/20985816
 #EXTINF:-1 tvg-id="武侠剧专区" tvg-name="武侠剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",武侠剧专区
@@ -718,6 +790,10 @@ https://live.metshop.top/huya/20985816
 https://live.ottiptv.cc/huya/20985816
 #EXTINF:-1 tvg-id="武侠剧专区" tvg-name="武侠剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",武侠剧专区
 http://live.metshop.top/huya/20985816?cdn=alicdn
+#EXTINF:-1 tvg-id="武侠剧专区" tvg-name="武侠剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",武侠剧专区
+https://isus.cc/php/huya.php?id=20985816
+#EXTINF:-1 tvg-id="武侠剧专区" tvg-name="武侠剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",武侠剧专区
+http://footyun.top:35455/huya/20985816
 #EXTINF:-1 tvg-id="穿越剧专区" tvg-name="穿越剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",穿越剧专区
 http://222.186.39.21:35466/huya/26355857
 #EXTINF:-1 tvg-id="穿越剧专区" tvg-name="穿越剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",穿越剧专区
@@ -728,12 +804,22 @@ https://live.ottiptv.cc/huya/26355857
 http://live.metshop.top/huya/26355857?cdn=alicdn
 #EXTINF:-1 tvg-id="穿越剧专区" tvg-name="穿越剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",穿越剧专区
 https://live.metshop.top/huya/26355857
+#EXTINF:-1 tvg-id="穿越剧专区" tvg-name="穿越剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",穿越剧专区
+http://8.155.43.98:35455/huya/26355857
+#EXTINF:-1 tvg-id="穿越剧专区" tvg-name="穿越剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",穿越剧专区
+http://footyun.top:35455/huya/26355857
 #EXTINF:-1 tvg-id="年代剧专区" tvg-name="年代剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",年代剧专区
 https://live.metshop.top/huya/20969095
 #EXTINF:-1 tvg-id="年代剧专区" tvg-name="年代剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",年代剧专区
 http://live.metshop.top/huya/20969095?cdn=alicdn
 #EXTINF:-1 tvg-id="年代剧专区" tvg-name="年代剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",年代剧专区
 https://live.ottiptv.cc/huya/20969095
+#EXTINF:-1 tvg-id="年代剧专区" tvg-name="年代剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",年代剧专区
+http://8.155.43.98:35455/huya/20969095
+#EXTINF:-1 tvg-id="年代剧专区" tvg-name="年代剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",年代剧专区
+https://isus.cc/php/huya.php?id=20969095
+#EXTINF:-1 tvg-id="年代剧专区" tvg-name="年代剧专区" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",年代剧专区
+http://footyun.top:35455/huya/20969095
 #EXTINF:-1 tvg-id="电影星爷" tvg-name="电影_星爷" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_星爷
 http://8.155.43.98:35455/huya/11342412
 #EXTINF:-1 tvg-id="电影星爷" tvg-name="电影_星爷" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_星爷
@@ -770,6 +856,10 @@ https://live.ottiptv.cc/huya/11342387
 https://live.metshop.top/huya/11342387
 #EXTINF:-1 tvg-id="电影发哥" tvg-name="电影_发哥" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_发哥
 http://live.metshop.top/huya/11342387?cdn=alicdn
+#EXTINF:-1 tvg-id="电影发哥" tvg-name="电影_发哥" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_发哥
+http://222.186.39.21:35466/huya/11342387
+#EXTINF:-1 tvg-id="电影发哥" tvg-name="电影_发哥" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_发哥
+http://footyun.top:35455/huya/11342387
 #EXTINF:-1 tvg-id="电影成龙" tvg-name="电影_成龙" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_成龙
 http://8.155.43.98:35455/huya/11342386
 #EXTINF:-1 tvg-id="电影成龙" tvg-name="电影_成龙" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_成龙
@@ -784,6 +874,8 @@ https://live.metshop.top/huya/11342386
 http://live.metshop.top/huya/11342386?cdn=alicdn
 #EXTINF:-1 tvg-id="电影成龙" tvg-name="电影_成龙" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_成龙
 https://lbds.us.ci/11342386
+#EXTINF:-1 tvg-id="电影成龙" tvg-name="电影_成龙" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_成龙
+http://222.186.39.21:35466/huya/11342386
 #EXTINF:-1 tvg-id="电影沈腾" tvg-name="电影_沈腾" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_沈腾
 http://footyun.top:35455/huya/11601968
 #EXTINF:-1 tvg-id="电影沈腾" tvg-name="电影_沈腾" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_沈腾
@@ -816,6 +908,10 @@ https://live.metshop.top/huya/11352876
 http://live.metshop.top/huya/11352876?cdn=alicdn
 #EXTINF:-1 tvg-id="电影黄渤" tvg-name="电影_黄渤" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_黄渤
 https://lbds.us.ci/11352876
+#EXTINF:-1 tvg-id="电影黄渤" tvg-name="电影_黄渤" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_黄渤
+https://isus.cc/php/huya.php?id=11352876
+#EXTINF:-1 tvg-id="电影黄渤" tvg-name="电影_黄渤" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_黄渤
+http://footyun.top:35455/huya/11352876
 #EXTINF:-1 tvg-id="电影强森" tvg-name="电影_强森" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_强森
 http://footyun.top:35455/huya/21059581
 #EXTINF:-1 tvg-id="电影强森" tvg-name="电影_强森" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_强森
@@ -830,6 +926,8 @@ http://live.metshop.top/huya/21059581?cdn=alicdn
 https://live.metshop.top/huya/21059581
 #EXTINF:-1 tvg-id="电影强森" tvg-name="电影_强森" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_强森
 https://lbds.us.ci/21059581
+#EXTINF:-1 tvg-id="电影强森" tvg-name="电影_强森" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_强森
+http://222.186.39.21:35466/huya/21059581
 #EXTINF:-1 tvg-id="电影漫威" tvg-name="电影_漫威" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_漫威
 http://1.14.124.206:35455/huya/11602034
 #EXTINF:-1 tvg-id="电影漫威" tvg-name="电影_漫威" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_漫威
@@ -840,6 +938,8 @@ http://live.metshop.top/huya/11602034?cdn=alicdn
 https://live.ottiptv.cc/huya/11602034
 #EXTINF:-1 tvg-id="电影漫威" tvg-name="电影_漫威" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_漫威
 https://live.metshop.top/huya/11602034
+#EXTINF:-1 tvg-id="电影漫威" tvg-name="电影_漫威" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_漫威
+https://isus.cc/php/huya.php?id=11602034
 #EXTINF:-1 tvg-id="电影王晶" tvg-name="电影_王晶" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_王晶
 http://8.155.43.98:35455/huya/11602058
 #EXTINF:-1 tvg-id="电影王晶" tvg-name="电影_王晶" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_王晶
@@ -854,6 +954,10 @@ https://live.ottiptv.cc/huya/11602058
 https://lbds.us.ci/11602058
 #EXTINF:-1 tvg-id="电影王晶" tvg-name="电影_王晶" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_王晶
 http://live.metshop.top/huya/11602058?cdn=alicdn
+#EXTINF:-1 tvg-id="电影王晶" tvg-name="电影_王晶" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_王晶
+http://222.186.39.21:35466/huya/11602058
+#EXTINF:-1 tvg-id="电影王晶" tvg-name="电影_王晶" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_王晶
+http://footyun.top:35455/huya/11602058
 #EXTINF:-1 tvg-id="电影宇宙" tvg-name="电影_宇宙" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_宇宙
 http://8.155.43.98:35455/huya/11342428
 #EXTINF:-1 tvg-id="电影宇宙" tvg-name="电影_宇宙" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_宇宙
@@ -870,6 +974,8 @@ https://live.ottiptv.cc/huya/11342428
 http://live.metshop.top/huya/11342428?cdn=alicdn
 #EXTINF:-1 tvg-id="电影宇宙" tvg-name="电影_宇宙" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_宇宙
 https://lbds.us.ci/11342428
+#EXTINF:-1 tvg-id="电影宇宙" tvg-name="电影_宇宙" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_宇宙
+https://isus.cc/php/huya.php?id=11342428
 #EXTINF:-1 tvg-id="电影怪兽" tvg-name="电影_怪兽" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_怪兽
 http://8.155.43.98:35455/huya/21059577
 #EXTINF:-1 tvg-id="电影怪兽" tvg-name="电影_怪兽" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_怪兽
@@ -942,6 +1048,10 @@ http://live.metshop.top/huya/21059595?cdn=alicdn
 https://live.ottiptv.cc/huya/21059595
 #EXTINF:-1 tvg-id="电影海盗" tvg-name="电影_海盗" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_海盗
 https://live.metshop.top/huya/21059595
+#EXTINF:-1 tvg-id="电影海盗" tvg-name="电影_海盗" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_海盗
+http://222.186.39.21:35466/huya/21059595
+#EXTINF:-1 tvg-id="电影海盗" tvg-name="电影_海盗" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_海盗
+http://footyun.top:35455/huya/21059595
 #EXTINF:-1 tvg-id="电影赛车" tvg-name="电影_赛车" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_赛车
 http://1.14.124.206:35455/huya/11279247
 #EXTINF:-1 tvg-id="电影赛车" tvg-name="电影_赛车" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_赛车
@@ -958,6 +1068,8 @@ https://lbds.us.ci/11279247
 https://live.metshop.top/huya/11279247
 #EXTINF:-1 tvg-id="电影赛车" tvg-name="电影_赛车" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_赛车
 http://live.metshop.top/huya/11279247?cdn=alicdn
+#EXTINF:-1 tvg-id="电影赛车" tvg-name="电影_赛车" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_赛车
+http://footyun.top:35455/huya/11279247
 #EXTINF:-1 tvg-id="电影推荐" tvg-name="电影_推荐" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_推荐
 http://footyun.top:35455/huya/29982675
 #EXTINF:-1 tvg-id="电影推荐" tvg-name="电影_推荐" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_推荐
@@ -1008,6 +1120,8 @@ https://live.metshop.top/huya/11352934
 http://live.metshop.top/huya/11352934?cdn=alicdn
 #EXTINF:-1 tvg-id="电影热血" tvg-name="电影_热血" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_热血
 https://live.ottiptv.cc/huya/11352934
+#EXTINF:-1 tvg-id="电影热血" tvg-name="电影_热血" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_热血
+https://isus.cc/php/huya.php?id=11352934
 #EXTINF:-1 tvg-id="电影盗墓" tvg-name="电影_盗墓" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_盗墓
 http://live.metshop.top/huya/21059552?cdn=alicdn
 #EXTINF:-1 tvg-id="电影盗墓" tvg-name="电影_盗墓" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_盗墓
@@ -1026,6 +1140,10 @@ https://live.ottiptv.cc/huya/11601971
 https://live.metshop.top/huya/11601971
 #EXTINF:-1 tvg-id="电影贺岁" tvg-name="电影_贺岁" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_贺岁
 http://live.metshop.top/huya/11601971?cdn=alicdn
+#EXTINF:-1 tvg-id="电影贺岁" tvg-name="电影_贺岁" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_贺岁
+http://222.186.39.21:35466/huya/11601971
+#EXTINF:-1 tvg-id="电影贺岁" tvg-name="电影_贺岁" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_贺岁
+https://isus.cc/php/huya.php?id=11601971
 #EXTINF:-1 tvg-id="电影玄幻" tvg-name="电影_玄幻" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_玄幻
 http://footyun.top:35455/huya/11342414
 #EXTINF:-1 tvg-id="电影玄幻" tvg-name="电影_玄幻" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_玄幻
@@ -1040,6 +1158,8 @@ http://live.metshop.top/huya/11342414?cdn=alicdn
 https://live.ottiptv.cc/huya/11342414
 #EXTINF:-1 tvg-id="电影玄幻" tvg-name="电影_玄幻" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_玄幻
 https://live.metshop.top/huya/11342414
+#EXTINF:-1 tvg-id="电影玄幻" tvg-name="电影_玄幻" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_玄幻
+https://isus.cc/php/huya.php?id=11342414
 #EXTINF:-1 tvg-id="电影谍战" tvg-name="电影_谍战" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_谍战
 http://8.155.43.98:35455/huya/21059585
 #EXTINF:-1 tvg-id="电影谍战" tvg-name="电影_谍战" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_谍战
@@ -1052,6 +1172,10 @@ https://live.ottiptv.cc/huya/21059585
 https://live.metshop.top/huya/21059585
 #EXTINF:-1 tvg-id="电影谍战" tvg-name="电影_谍战" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_谍战
 http://live.metshop.top/huya/21059585?cdn=alicdn
+#EXTINF:-1 tvg-id="电影谍战" tvg-name="电影_谍战" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_谍战
+https://isus.cc/php/huya.php?id=21059585
+#EXTINF:-1 tvg-id="电影谍战" tvg-name="电影_谍战" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_谍战
+http://footyun.top:35455/huya/21059585
 #EXTINF:-1 tvg-id="电影战争" tvg-name="电影_战争" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_战争
 http://live.metshop.top/huya/21059592?cdn=alicdn
 #EXTINF:-1 tvg-id="电影战争" tvg-name="电影_战争" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_战争
@@ -1070,6 +1194,12 @@ https://live.ottiptv.cc/huya/11352877
 http://live.metshop.top/huya/11352877?cdn=alicdn
 #EXTINF:-1 tvg-id="电影喜剧" tvg-name="电影_喜剧" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_喜剧
 https://lbds.us.ci/11352877
+#EXTINF:-1 tvg-id="电影喜剧" tvg-name="电影_喜剧" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_喜剧
+http://222.186.39.21:35466/huya/11352877
+#EXTINF:-1 tvg-id="电影喜剧" tvg-name="电影_喜剧" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_喜剧
+https://isus.cc/php/huya.php?id=11352877
+#EXTINF:-1 tvg-id="电影喜剧" tvg-name="电影_喜剧" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_喜剧
+http://footyun.top:35455/huya/11352877
 #EXTINF:-1 tvg-id="电影港片" tvg-name="电影_港片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_港片
 http://222.186.39.21:35466/huya/11602043
 #EXTINF:-1 tvg-id="电影港片" tvg-name="电影_港片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_港片
@@ -1086,6 +1216,8 @@ http://live.metshop.top/huya/11602043?cdn=alicdn
 https://live.metshop.top/huya/11602043
 #EXTINF:-1 tvg-id="电影港片" tvg-name="电影_港片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_港片
 https://lbds.us.ci/11602043
+#EXTINF:-1 tvg-id="电影港片" tvg-name="电影_港片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_港片
+http://footyun.top:35455/huya/11602043
 #EXTINF:-1 tvg-id="电影国产" tvg-name="电影_国产" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_国产
 http://footyun.top:35455/huya/11352973
 #EXTINF:-1 tvg-id="电影国产" tvg-name="电影_国产" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_国产
@@ -1128,6 +1260,8 @@ http://live.metshop.top/huya/11342390?cdn=alicdn
 https://live.ottiptv.cc/huya/11342390
 #EXTINF:-1 tvg-id="电影李连杰" tvg-name="电影_李连杰" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_李连杰
 https://lbds.us.ci/11342390
+#EXTINF:-1 tvg-id="电影李连杰" tvg-name="电影_李连杰" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_李连杰
+https://isus.cc/php/huya.php?id=11342390
 #EXTINF:-1 tvg-id="电影洪金宝" tvg-name="电影_洪金宝" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_洪金宝
 http://222.186.39.21:35466/huya/11279251
 #EXTINF:-1 tvg-id="电影洪金宝" tvg-name="电影_洪金宝" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_洪金宝
@@ -1142,6 +1276,10 @@ https://live.ottiptv.cc/huya/11279251
 https://live.metshop.top/huya/11279251
 #EXTINF:-1 tvg-id="电影洪金宝" tvg-name="电影_洪金宝" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_洪金宝
 https://lbds.us.ci/11279251
+#EXTINF:-1 tvg-id="电影洪金宝" tvg-name="电影_洪金宝" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_洪金宝
+https://isus.cc/php/huya.php?id=11279251
+#EXTINF:-1 tvg-id="电影洪金宝" tvg-name="电影_洪金宝" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_洪金宝
+http://footyun.top:35455/huya/11279251
 #EXTINF:-1 tvg-id="电影梁家辉" tvg-name="电影_梁家辉" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_梁家辉
 http://footyun.top:35455/huya/11342429
 #EXTINF:-1 tvg-id="电影梁家辉" tvg-name="电影_梁家辉" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_梁家辉
@@ -1166,6 +1304,10 @@ https://live.metshop.top/huya/11601972
 https://live.ottiptv.cc/huya/11601972
 #EXTINF:-1 tvg-id="电影许冠英" tvg-name="电影_许冠英" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_许冠英
 http://live.metshop.top/huya/11601972?cdn=alicdn
+#EXTINF:-1 tvg-id="电影许冠英" tvg-name="电影_许冠英" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_许冠英
+http://222.186.39.21:35466/huya/11601972
+#EXTINF:-1 tvg-id="电影许冠英" tvg-name="电影_许冠英" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_许冠英
+http://footyun.top:35455/huya/11601972
 #EXTINF:-1 tvg-id="电影刘德华" tvg-name="电影_刘德华" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_刘德华
 http://footyun.top:35455/huya/11342424
 #EXTINF:-1 tvg-id="电影刘德华" tvg-name="电影_刘德华" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_刘德华
@@ -1180,6 +1322,8 @@ https://live.metshop.top/huya/11342424
 http://live.metshop.top/huya/11342424?cdn=alicdn
 #EXTINF:-1 tvg-id="电影刘德华" tvg-name="电影_刘德华" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_刘德华
 https://lbds.us.ci/11342424
+#EXTINF:-1 tvg-id="电影刘德华" tvg-name="电影_刘德华" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_刘德华
+http://222.186.39.21:35466/huya/11342424
 #EXTINF:-1 tvg-id="经典" tvg-name="经典影视台" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",经典影视台
 http://live.nctv.top/douyu1.php?id=6091425
 #EXTINF:-1 tvg-id="经典" tvg-name="经典影视台" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",经典影视台
@@ -1224,12 +1368,20 @@ https://live.ottiptv.cc/huya/21059618
 https://live.metshop.top/huya/21059618
 #EXTINF:-1 tvg-id="战争电影放映厅" tvg-name="战争电影放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1086/66/92eea73419e298b87afa54a59b6dc0_180_135.jpg?1614062840" group-title="轮播频道",战争电影放映厅
 http://live.metshop.top/huya/21059618?cdn=alicdn
+#EXTINF:-1 tvg-id="战争电影放映厅" tvg-name="战争电影放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1086/66/92eea73419e298b87afa54a59b6dc0_180_135.jpg?1614062840" group-title="轮播频道",战争电影放映厅
+http://footyun.top:35455/huya/21059618
 #EXTINF:-1 tvg-id="悬疑放映厅" tvg-name="悬疑放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1068/71/301d8cad8d9b62708d9d690c8769be_180_135.jpg?1646813145" group-title="轮播频道",悬疑放映厅
 http://live.metshop.top/huya/26355797?cdn=alicdn
 #EXTINF:-1 tvg-id="悬疑放映厅" tvg-name="悬疑放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1068/71/301d8cad8d9b62708d9d690c8769be_180_135.jpg?1646813145" group-title="轮播频道",悬疑放映厅
 https://live.ottiptv.cc/huya/26355797
 #EXTINF:-1 tvg-id="悬疑放映厅" tvg-name="悬疑放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1068/71/301d8cad8d9b62708d9d690c8769be_180_135.jpg?1646813145" group-title="轮播频道",悬疑放映厅
 https://live.metshop.top/huya/26355797
+#EXTINF:-1 tvg-id="悬疑放映厅" tvg-name="悬疑放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1068/71/301d8cad8d9b62708d9d690c8769be_180_135.jpg?1646813145" group-title="轮播频道",悬疑放映厅
+http://222.186.39.21:35466/huya/26355797
+#EXTINF:-1 tvg-id="悬疑放映厅" tvg-name="悬疑放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1068/71/301d8cad8d9b62708d9d690c8769be_180_135.jpg?1646813145" group-title="轮播频道",悬疑放映厅
+https://isus.cc/php/huya.php?id=26355797
+#EXTINF:-1 tvg-id="悬疑放映厅" tvg-name="悬疑放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1068/71/301d8cad8d9b62708d9d690c8769be_180_135.jpg?1646813145" group-title="轮播频道",悬疑放映厅
+http://footyun.top:35455/huya/26355797
 #EXTINF:-1 tvg-id="九叔林正英" tvg-name="九叔林正英" tvg-logo="https://huyaimg.msstatic.com/avatar/1025/95/a3ac1868a00142761d7b9ab5883974_180_135.jpg?1766634496" group-title="轮播频道",九叔林正英
 http://footyun.top:35455/huya/30631704
 #EXTINF:-1 tvg-id="九叔林正英" tvg-name="九叔林正英" tvg-logo="https://huyaimg.msstatic.com/avatar/1025/95/a3ac1868a00142761d7b9ab5883974_180_135.jpg?1766634496" group-title="轮播频道",九叔林正英
@@ -1242,18 +1394,34 @@ http://live.metshop.top/huya/30631704?cdn=alicdn
 https://live.ottiptv.cc/huya/30631704
 #EXTINF:-1 tvg-id="九叔林正英" tvg-name="九叔林正英" tvg-logo="https://huyaimg.msstatic.com/avatar/1025/95/a3ac1868a00142761d7b9ab5883974_180_135.jpg?1766634496" group-title="轮播频道",九叔林正英
 https://live.metshop.top/huya/30631704
+#EXTINF:-1 tvg-id="九叔林正英" tvg-name="九叔林正英" tvg-logo="https://huyaimg.msstatic.com/avatar/1025/95/a3ac1868a00142761d7b9ab5883974_180_135.jpg?1766634496" group-title="轮播频道",九叔林正英
+http://8.155.43.98:35455/huya/30631704
+#EXTINF:-1 tvg-id="九叔林正英" tvg-name="九叔林正英" tvg-logo="https://huyaimg.msstatic.com/avatar/1025/95/a3ac1868a00142761d7b9ab5883974_180_135.jpg?1766634496" group-title="轮播频道",九叔林正英
+https://isus.cc/php/huya.php?id=30631704
 #EXTINF:-1 tvg-id="西部影坛" tvg-name="西部影坛" tvg-logo="https://huyaimg.msstatic.com/avatar/1085/a2/40851cf173c0d8475c03cb1167538b_180_135.jpg?1729650352" group-title="轮播频道",西部影坛
 http://live.metshop.top/huya/30311497?cdn=alicdn
 #EXTINF:-1 tvg-id="西部影坛" tvg-name="西部影坛" tvg-logo="https://huyaimg.msstatic.com/avatar/1085/a2/40851cf173c0d8475c03cb1167538b_180_135.jpg?1729650352" group-title="轮播频道",西部影坛
 https://live.ottiptv.cc/huya/30311497
 #EXTINF:-1 tvg-id="西部影坛" tvg-name="西部影坛" tvg-logo="https://huyaimg.msstatic.com/avatar/1085/a2/40851cf173c0d8475c03cb1167538b_180_135.jpg?1729650352" group-title="轮播频道",西部影坛
 https://live.metshop.top/huya/30311497
+#EXTINF:-1 tvg-id="西部影坛" tvg-name="西部影坛" tvg-logo="https://huyaimg.msstatic.com/avatar/1085/a2/40851cf173c0d8475c03cb1167538b_180_135.jpg?1729650352" group-title="轮播频道",西部影坛
+http://222.186.39.21:35466/huya/30311497
+#EXTINF:-1 tvg-id="西部影坛" tvg-name="西部影坛" tvg-logo="https://huyaimg.msstatic.com/avatar/1085/a2/40851cf173c0d8475c03cb1167538b_180_135.jpg?1729650352" group-title="轮播频道",西部影坛
+http://1.14.124.206:35455/huya/30311497
 #EXTINF:-1 tvg-id="粤语电影放映厅" tvg-name="粤语电影放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1008/7a/edec810dfc733559981faa88ca7eab_180_135.jpg?1713512754" group-title="轮播频道",粤语电影放映厅
 https://live.ottiptv.cc/huya/21059572
 #EXTINF:-1 tvg-id="粤语电影放映厅" tvg-name="粤语电影放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1008/7a/edec810dfc733559981faa88ca7eab_180_135.jpg?1713512754" group-title="轮播频道",粤语电影放映厅
 https://live.metshop.top/huya/21059572
 #EXTINF:-1 tvg-id="粤语电影放映厅" tvg-name="粤语电影放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1008/7a/edec810dfc733559981faa88ca7eab_180_135.jpg?1713512754" group-title="轮播频道",粤语电影放映厅
 http://live.metshop.top/huya/21059572?cdn=alicdn
+#EXTINF:-1 tvg-id="粤语电影放映厅" tvg-name="粤语电影放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1008/7a/edec810dfc733559981faa88ca7eab_180_135.jpg?1713512754" group-title="轮播频道",粤语电影放映厅
+http://8.155.43.98:35455/huya/21059572
+#EXTINF:-1 tvg-id="粤语电影放映厅" tvg-name="粤语电影放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1008/7a/edec810dfc733559981faa88ca7eab_180_135.jpg?1713512754" group-title="轮播频道",粤语电影放映厅
+http://222.186.39.21:35466/huya/21059572
+#EXTINF:-1 tvg-id="粤语电影放映厅" tvg-name="粤语电影放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1008/7a/edec810dfc733559981faa88ca7eab_180_135.jpg?1713512754" group-title="轮播频道",粤语电影放映厅
+http://1.14.124.206:35455/huya/21059572
+#EXTINF:-1 tvg-id="粤语电影放映厅" tvg-name="粤语电影放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1008/7a/edec810dfc733559981faa88ca7eab_180_135.jpg?1713512754" group-title="轮播频道",粤语电影放映厅
+http://footyun.top:35455/huya/21059572
 #EXTINF:-1 tvg-id="港片魅力无限" tvg-name="港片魅力无限" tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="轮播频道",港片魅力无限
 http://1.14.124.206:35455/huya/29465852
 #EXTINF:-1 tvg-id="港片魅力无限" tvg-name="港片魅力无限" tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="轮播频道",港片魅力无限
@@ -1264,48 +1432,106 @@ https://live.metshop.top/huya/29465852
 https://live.ottiptv.cc/huya/29465852
 #EXTINF:-1 tvg-id="港片魅力无限" tvg-name="港片魅力无限" tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="轮播频道",港片魅力无限
 http://live.metshop.top/huya/29465852?cdn=alicdn
+#EXTINF:-1 tvg-id="港片魅力无限" tvg-name="港片魅力无限" tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="轮播频道",港片魅力无限
+http://8.155.43.98:35455/huya/29465852
+#EXTINF:-1 tvg-id="港片魅力无限" tvg-name="港片魅力无限" tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="轮播频道",港片魅力无限
+http://footyun.top:35455/huya/29465852
 #EXTINF:-1 tvg-id="悬疑电影放映厅" tvg-name="悬疑电影放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1090/91/f41be4ea8cc69d38bbe8971a814e7d_180_135.jpg?1719997052" group-title="轮播频道",悬疑电影放映厅
 http://live.metshop.top/huya/29982641?cdn=alicdn
 #EXTINF:-1 tvg-id="悬疑电影放映厅" tvg-name="悬疑电影放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1090/91/f41be4ea8cc69d38bbe8971a814e7d_180_135.jpg?1719997052" group-title="轮播频道",悬疑电影放映厅
 https://live.ottiptv.cc/huya/29982641
 #EXTINF:-1 tvg-id="悬疑电影放映厅" tvg-name="悬疑电影放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1090/91/f41be4ea8cc69d38bbe8971a814e7d_180_135.jpg?1719997052" group-title="轮播频道",悬疑电影放映厅
 https://live.metshop.top/huya/29982641
+#EXTINF:-1 tvg-id="悬疑电影放映厅" tvg-name="悬疑电影放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1090/91/f41be4ea8cc69d38bbe8971a814e7d_180_135.jpg?1719997052" group-title="轮播频道",悬疑电影放映厅
+http://8.155.43.98:35455/huya/29982641
+#EXTINF:-1 tvg-id="悬疑电影放映厅" tvg-name="悬疑电影放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1090/91/f41be4ea8cc69d38bbe8971a814e7d_180_135.jpg?1719997052" group-title="轮播频道",悬疑电影放映厅
+http://222.186.39.21:35466/huya/29982641
+#EXTINF:-1 tvg-id="悬疑电影放映厅" tvg-name="悬疑电影放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1090/91/f41be4ea8cc69d38bbe8971a814e7d_180_135.jpg?1719997052" group-title="轮播频道",悬疑电影放映厅
+http://footyun.top:35455/huya/29982641
 #EXTINF:-1 tvg-id="冯小刚导演" tvg-name="冯小刚-导演" tvg-logo="https://huyaimg.msstatic.com/avatar/1097/40/25c6da310ef8a04c6c8336ce89dddf_180_135.jpg?1767519787" group-title="轮播频道",冯小刚-导演
 http://live.metshop.top/huya/30631756?cdn=alicdn
 #EXTINF:-1 tvg-id="冯小刚导演" tvg-name="冯小刚-导演" tvg-logo="https://huyaimg.msstatic.com/avatar/1097/40/25c6da310ef8a04c6c8336ce89dddf_180_135.jpg?1767519787" group-title="轮播频道",冯小刚-导演
 https://live.ottiptv.cc/huya/30631756
 #EXTINF:-1 tvg-id="冯小刚导演" tvg-name="冯小刚-导演" tvg-logo="https://huyaimg.msstatic.com/avatar/1097/40/25c6da310ef8a04c6c8336ce89dddf_180_135.jpg?1767519787" group-title="轮播频道",冯小刚-导演
 https://live.metshop.top/huya/30631756
+#EXTINF:-1 tvg-id="冯小刚导演" tvg-name="冯小刚-导演" tvg-logo="https://huyaimg.msstatic.com/avatar/1097/40/25c6da310ef8a04c6c8336ce89dddf_180_135.jpg?1767519787" group-title="轮播频道",冯小刚-导演
+http://8.155.43.98:35455/huya/30631756
+#EXTINF:-1 tvg-id="冯小刚导演" tvg-name="冯小刚-导演" tvg-logo="https://huyaimg.msstatic.com/avatar/1097/40/25c6da310ef8a04c6c8336ce89dddf_180_135.jpg?1767519787" group-title="轮播频道",冯小刚-导演
+http://222.186.39.21:35466/huya/30631756
+#EXTINF:-1 tvg-id="冯小刚导演" tvg-name="冯小刚-导演" tvg-logo="https://huyaimg.msstatic.com/avatar/1097/40/25c6da310ef8a04c6c8336ce89dddf_180_135.jpg?1767519787" group-title="轮播频道",冯小刚-导演
+http://1.14.124.206:35455/huya/30631756
+#EXTINF:-1 tvg-id="冯小刚导演" tvg-name="冯小刚-导演" tvg-logo="https://huyaimg.msstatic.com/avatar/1097/40/25c6da310ef8a04c6c8336ce89dddf_180_135.jpg?1767519787" group-title="轮播频道",冯小刚-导演
+http://footyun.top:35455/huya/30631756
 #EXTINF:-1 tvg-id="华视爱情大片" tvg-name="华视-爱情大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1086/90/3554acca95fc54d364dfc7c2d33119_180_135.jpg?1601356375" group-title="轮播频道",华视-爱情大片
 http://live.metshop.top/huya/23358431?cdn=alicdn
 #EXTINF:-1 tvg-id="华视爱情大片" tvg-name="华视-爱情大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1086/90/3554acca95fc54d364dfc7c2d33119_180_135.jpg?1601356375" group-title="轮播频道",华视-爱情大片
 https://live.ottiptv.cc/huya/23358431
 #EXTINF:-1 tvg-id="华视爱情大片" tvg-name="华视-爱情大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1086/90/3554acca95fc54d364dfc7c2d33119_180_135.jpg?1601356375" group-title="轮播频道",华视-爱情大片
 https://live.metshop.top/huya/23358431
+#EXTINF:-1 tvg-id="华视爱情大片" tvg-name="华视-爱情大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1086/90/3554acca95fc54d364dfc7c2d33119_180_135.jpg?1601356375" group-title="轮播频道",华视-爱情大片
+http://8.155.43.98:35455/huya/23358431
+#EXTINF:-1 tvg-id="华视爱情大片" tvg-name="华视-爱情大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1086/90/3554acca95fc54d364dfc7c2d33119_180_135.jpg?1601356375" group-title="轮播频道",华视-爱情大片
+http://222.186.39.21:35466/huya/23358431
+#EXTINF:-1 tvg-id="华视爱情大片" tvg-name="华视-爱情大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1086/90/3554acca95fc54d364dfc7c2d33119_180_135.jpg?1601356375" group-title="轮播频道",华视-爱情大片
+http://1.14.124.206:35455/huya/23358431
+#EXTINF:-1 tvg-id="华视爱情大片" tvg-name="华视-爱情大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1086/90/3554acca95fc54d364dfc7c2d33119_180_135.jpg?1601356375" group-title="轮播频道",华视-爱情大片
+http://footyun.top:35455/huya/23358431
 #EXTINF:-1 tvg-id="华视喜剧大片" tvg-name="华视-喜剧大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1055/fb/8852b2ce0a9d5f1b23fa796532aa9b_180_135.jpg?1601279065" group-title="轮播频道",华视-喜剧大片
 http://live.metshop.top/huya/23352525?cdn=alicdn
 #EXTINF:-1 tvg-id="华视喜剧大片" tvg-name="华视-喜剧大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1055/fb/8852b2ce0a9d5f1b23fa796532aa9b_180_135.jpg?1601279065" group-title="轮播频道",华视-喜剧大片
 https://live.metshop.top/huya/23352525
 #EXTINF:-1 tvg-id="华视喜剧大片" tvg-name="华视-喜剧大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1055/fb/8852b2ce0a9d5f1b23fa796532aa9b_180_135.jpg?1601279065" group-title="轮播频道",华视-喜剧大片
 https://live.ottiptv.cc/huya/23352525
+#EXTINF:-1 tvg-id="华视喜剧大片" tvg-name="华视-喜剧大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1055/fb/8852b2ce0a9d5f1b23fa796532aa9b_180_135.jpg?1601279065" group-title="轮播频道",华视-喜剧大片
+http://8.155.43.98:35455/huya/23352525
+#EXTINF:-1 tvg-id="华视喜剧大片" tvg-name="华视-喜剧大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1055/fb/8852b2ce0a9d5f1b23fa796532aa9b_180_135.jpg?1601279065" group-title="轮播频道",华视-喜剧大片
+http://222.186.39.21:35466/huya/23352525
+#EXTINF:-1 tvg-id="华视喜剧大片" tvg-name="华视-喜剧大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1055/fb/8852b2ce0a9d5f1b23fa796532aa9b_180_135.jpg?1601279065" group-title="轮播频道",华视-喜剧大片
+http://1.14.124.206:35455/huya/23352525
+#EXTINF:-1 tvg-id="华视喜剧大片" tvg-name="华视-喜剧大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1055/fb/8852b2ce0a9d5f1b23fa796532aa9b_180_135.jpg?1601279065" group-title="轮播频道",华视-喜剧大片
+http://footyun.top:35455/huya/23352525
 #EXTINF:-1 tvg-id="华视动作大片" tvg-name="华视-动作大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1072/e8/dd0188b4dd10f3d769092b33a2c471_180_135.jpg?1601279306" group-title="轮播频道",华视-动作大片
 http://live.metshop.top/huya/23352535?cdn=alicdn
 #EXTINF:-1 tvg-id="华视动作大片" tvg-name="华视-动作大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1072/e8/dd0188b4dd10f3d769092b33a2c471_180_135.jpg?1601279306" group-title="轮播频道",华视-动作大片
 https://live.ottiptv.cc/huya/23352535
 #EXTINF:-1 tvg-id="华视动作大片" tvg-name="华视-动作大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1072/e8/dd0188b4dd10f3d769092b33a2c471_180_135.jpg?1601279306" group-title="轮播频道",华视-动作大片
 https://live.metshop.top/huya/23352535
+#EXTINF:-1 tvg-id="华视动作大片" tvg-name="华视-动作大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1072/e8/dd0188b4dd10f3d769092b33a2c471_180_135.jpg?1601279306" group-title="轮播频道",华视-动作大片
+http://8.155.43.98:35455/huya/23352535
+#EXTINF:-1 tvg-id="华视动作大片" tvg-name="华视-动作大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1072/e8/dd0188b4dd10f3d769092b33a2c471_180_135.jpg?1601279306" group-title="轮播频道",华视-动作大片
+http://222.186.39.21:35466/huya/23352535
+#EXTINF:-1 tvg-id="华视动作大片" tvg-name="华视-动作大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1072/e8/dd0188b4dd10f3d769092b33a2c471_180_135.jpg?1601279306" group-title="轮播频道",华视-动作大片
+http://1.14.124.206:35455/huya/23352535
+#EXTINF:-1 tvg-id="华视动作大片" tvg-name="华视-动作大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1072/e8/dd0188b4dd10f3d769092b33a2c471_180_135.jpg?1601279306" group-title="轮播频道",华视-动作大片
+http://footyun.top:35455/huya/23352535
 #EXTINF:-1 tvg-id="华视高分好片" tvg-name="华视-高分好片" tvg-logo="https://huyaimg.msstatic.com/avatar/1040/bc/23e08c82dfe946f59ab93f8ccea010_180_135.jpg?1601279234" group-title="轮播频道",华视-高分好片
 http://live.metshop.top/huya/23352530?cdn=alicdn
 #EXTINF:-1 tvg-id="华视高分好片" tvg-name="华视-高分好片" tvg-logo="https://huyaimg.msstatic.com/avatar/1040/bc/23e08c82dfe946f59ab93f8ccea010_180_135.jpg?1601279234" group-title="轮播频道",华视-高分好片
 https://live.ottiptv.cc/huya/23352530
 #EXTINF:-1 tvg-id="华视高分好片" tvg-name="华视-高分好片" tvg-logo="https://huyaimg.msstatic.com/avatar/1040/bc/23e08c82dfe946f59ab93f8ccea010_180_135.jpg?1601279234" group-title="轮播频道",华视-高分好片
 https://live.metshop.top/huya/23352530
+#EXTINF:-1 tvg-id="华视高分好片" tvg-name="华视-高分好片" tvg-logo="https://huyaimg.msstatic.com/avatar/1040/bc/23e08c82dfe946f59ab93f8ccea010_180_135.jpg?1601279234" group-title="轮播频道",华视-高分好片
+http://8.155.43.98:35455/huya/23352530
+#EXTINF:-1 tvg-id="华视高分好片" tvg-name="华视-高分好片" tvg-logo="https://huyaimg.msstatic.com/avatar/1040/bc/23e08c82dfe946f59ab93f8ccea010_180_135.jpg?1601279234" group-title="轮播频道",华视-高分好片
+http://222.186.39.21:35466/huya/23352530
+#EXTINF:-1 tvg-id="华视高分好片" tvg-name="华视-高分好片" tvg-logo="https://huyaimg.msstatic.com/avatar/1040/bc/23e08c82dfe946f59ab93f8ccea010_180_135.jpg?1601279234" group-title="轮播频道",华视-高分好片
+http://1.14.124.206:35455/huya/23352530
+#EXTINF:-1 tvg-id="华视高分好片" tvg-name="华视-高分好片" tvg-logo="https://huyaimg.msstatic.com/avatar/1040/bc/23e08c82dfe946f59ab93f8ccea010_180_135.jpg?1601279234" group-title="轮播频道",华视-高分好片
+https://isus.cc/php/huya.php?id=23352530
+#EXTINF:-1 tvg-id="华视高分好片" tvg-name="华视-高分好片" tvg-logo="https://huyaimg.msstatic.com/avatar/1040/bc/23e08c82dfe946f59ab93f8ccea010_180_135.jpg?1601279234" group-title="轮播频道",华视-高分好片
+http://footyun.top:35455/huya/23352530
 #EXTINF:-1 tvg-id="华视警匪大片" tvg-name="华视-警匪大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1031/e0/a836f1c02db093f693c23cc43001e5_180_135.jpg?1601351374" group-title="轮播频道",华视-警匪大片
 http://live.metshop.top/huya/23358421?cdn=alicdn
 #EXTINF:-1 tvg-id="华视警匪大片" tvg-name="华视-警匪大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1031/e0/a836f1c02db093f693c23cc43001e5_180_135.jpg?1601351374" group-title="轮播频道",华视-警匪大片
 https://live.ottiptv.cc/huya/23358421
 #EXTINF:-1 tvg-id="华视警匪大片" tvg-name="华视-警匪大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1031/e0/a836f1c02db093f693c23cc43001e5_180_135.jpg?1601351374" group-title="轮播频道",华视-警匪大片
 https://live.metshop.top/huya/23358421
+#EXTINF:-1 tvg-id="华视警匪大片" tvg-name="华视-警匪大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1031/e0/a836f1c02db093f693c23cc43001e5_180_135.jpg?1601351374" group-title="轮播频道",华视-警匪大片
+http://8.155.43.98:35455/huya/23358421
+#EXTINF:-1 tvg-id="华视警匪大片" tvg-name="华视-警匪大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1031/e0/a836f1c02db093f693c23cc43001e5_180_135.jpg?1601351374" group-title="轮播频道",华视-警匪大片
+http://222.186.39.21:35466/huya/23358421
+#EXTINF:-1 tvg-id="华视警匪大片" tvg-name="华视-警匪大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1031/e0/a836f1c02db093f693c23cc43001e5_180_135.jpg?1601351374" group-title="轮播频道",华视-警匪大片
+https://isus.cc/php/huya.php?id=23358421
 #EXTINF:-1 tvg-id="华视悬疑恐怖" tvg-name="华视-悬疑恐怖" tvg-logo="https://huyaimg.msstatic.com/avatar/1042/aa/147d2c64e32de9ce1f6477d712ce88_180_135.jpg?1601356500" group-title="轮播频道",华视-悬疑恐怖
 https://isus.cc/php/huya.php?id=23358441
 #EXTINF:-1 tvg-id="华视悬疑恐怖" tvg-name="华视-悬疑恐怖" tvg-logo="https://huyaimg.msstatic.com/avatar/1042/aa/147d2c64e32de9ce1f6477d712ce88_180_135.jpg?1601356500" group-title="轮播频道",华视-悬疑恐怖
@@ -1314,6 +1540,12 @@ http://live.metshop.top/huya/23358441?cdn=alicdn
 https://live.ottiptv.cc/huya/23358441
 #EXTINF:-1 tvg-id="华视悬疑恐怖" tvg-name="华视-悬疑恐怖" tvg-logo="https://huyaimg.msstatic.com/avatar/1042/aa/147d2c64e32de9ce1f6477d712ce88_180_135.jpg?1601356500" group-title="轮播频道",华视-悬疑恐怖
 https://live.metshop.top/huya/23358441
+#EXTINF:-1 tvg-id="华视悬疑恐怖" tvg-name="华视-悬疑恐怖" tvg-logo="https://huyaimg.msstatic.com/avatar/1042/aa/147d2c64e32de9ce1f6477d712ce88_180_135.jpg?1601356500" group-title="轮播频道",华视-悬疑恐怖
+http://8.155.43.98:35455/huya/23358441
+#EXTINF:-1 tvg-id="华视悬疑恐怖" tvg-name="华视-悬疑恐怖" tvg-logo="https://huyaimg.msstatic.com/avatar/1042/aa/147d2c64e32de9ce1f6477d712ce88_180_135.jpg?1601356500" group-title="轮播频道",华视-悬疑恐怖
+http://222.186.39.21:35466/huya/23358441
+#EXTINF:-1 tvg-id="华视悬疑恐怖" tvg-name="华视-悬疑恐怖" tvg-logo="https://huyaimg.msstatic.com/avatar/1042/aa/147d2c64e32de9ce1f6477d712ce88_180_135.jpg?1601356500" group-title="轮播频道",华视-悬疑恐怖
+http://footyun.top:35455/huya/23358441
 #EXTINF:-1 tvg-id="动画电影放映厅" tvg-name="动画电影放映厅" tvg-logo="http://huyaimg.msstatic.com/avatar/1096/d6/c177089e08964689b8e5cece7e08f8_180_135.jpg" group-title="轮播频道",动画电影放映厅
 http://1.14.124.206:35455/huya/11352878
 #EXTINF:-1 tvg-id="动画电影放映厅" tvg-name="动画电影放映厅" tvg-logo="http://huyaimg.msstatic.com/avatar/1096/d6/c177089e08964689b8e5cece7e08f8_180_135.jpg" group-title="轮播频道",动画电影放映厅
@@ -1322,24 +1554,56 @@ https://live.ottiptv.cc/huya/11352878
 https://live.metshop.top/huya/11352878
 #EXTINF:-1 tvg-id="动画电影放映厅" tvg-name="动画电影放映厅" tvg-logo="http://huyaimg.msstatic.com/avatar/1096/d6/c177089e08964689b8e5cece7e08f8_180_135.jpg" group-title="轮播频道",动画电影放映厅
 http://live.metshop.top/huya/11352878?cdn=alicdn
+#EXTINF:-1 tvg-id="动画电影放映厅" tvg-name="动画电影放映厅" tvg-logo="http://huyaimg.msstatic.com/avatar/1096/d6/c177089e08964689b8e5cece7e08f8_180_135.jpg" group-title="轮播频道",动画电影放映厅
+http://8.155.43.98:35455/huya/11352878
+#EXTINF:-1 tvg-id="动画电影放映厅" tvg-name="动画电影放映厅" tvg-logo="http://huyaimg.msstatic.com/avatar/1096/d6/c177089e08964689b8e5cece7e08f8_180_135.jpg" group-title="轮播频道",动画电影放映厅
+http://222.186.39.21:35466/huya/11352878
+#EXTINF:-1 tvg-id="动画电影放映厅" tvg-name="动画电影放映厅" tvg-logo="http://huyaimg.msstatic.com/avatar/1096/d6/c177089e08964689b8e5cece7e08f8_180_135.jpg" group-title="轮播频道",动画电影放映厅
+http://footyun.top:35455/huya/11352878
 #EXTINF:-1 tvg-id="b悬疑大片" tvg-name="TVB悬疑大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1036/a2/0bc604ef08bc4c7b90d3bd67a99c8e_180_135.jpg?1609139170" group-title="轮播频道",TVB悬疑大片
 https://live.ottiptv.cc/huya/23865072
 #EXTINF:-1 tvg-id="b悬疑大片" tvg-name="TVB悬疑大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1036/a2/0bc604ef08bc4c7b90d3bd67a99c8e_180_135.jpg?1609139170" group-title="轮播频道",TVB悬疑大片
 https://live.metshop.top/huya/23865072
 #EXTINF:-1 tvg-id="b悬疑大片" tvg-name="TVB悬疑大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1036/a2/0bc604ef08bc4c7b90d3bd67a99c8e_180_135.jpg?1609139170" group-title="轮播频道",TVB悬疑大片
 http://live.metshop.top/huya/23865072?cdn=alicdn
+#EXTINF:-1 tvg-id="b悬疑大片" tvg-name="TVB悬疑大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1036/a2/0bc604ef08bc4c7b90d3bd67a99c8e_180_135.jpg?1609139170" group-title="轮播频道",TVB悬疑大片
+http://222.186.39.21:35466/huya/23865072
+#EXTINF:-1 tvg-id="b悬疑大片" tvg-name="TVB悬疑大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1036/a2/0bc604ef08bc4c7b90d3bd67a99c8e_180_135.jpg?1609139170" group-title="轮播频道",TVB悬疑大片
+http://1.14.124.206:35455/huya/23865072
+#EXTINF:-1 tvg-id="b悬疑大片" tvg-name="TVB悬疑大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1036/a2/0bc604ef08bc4c7b90d3bd67a99c8e_180_135.jpg?1609139170" group-title="轮播频道",TVB悬疑大片
+https://isus.cc/php/huya.php?id=23865072
+#EXTINF:-1 tvg-id="b悬疑大片" tvg-name="TVB悬疑大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1036/a2/0bc604ef08bc4c7b90d3bd67a99c8e_180_135.jpg?1609139170" group-title="轮播频道",TVB悬疑大片
+http://footyun.top:35455/huya/23865072
 #EXTINF:-1 tvg-id="港片看不停" tvg-name="港片看不停" tvg-logo="https://huyaimg.msstatic.com/avatar/1057/19/cfa1920f4143755f592ea4d39c8bbc_180_135.jpg?1609139541" group-title="轮播频道",港片看不停
 http://live.metshop.top/huya/23865096?cdn=alicdn
 #EXTINF:-1 tvg-id="港片看不停" tvg-name="港片看不停" tvg-logo="https://huyaimg.msstatic.com/avatar/1057/19/cfa1920f4143755f592ea4d39c8bbc_180_135.jpg?1609139541" group-title="轮播频道",港片看不停
 https://live.ottiptv.cc/huya/23865096
 #EXTINF:-1 tvg-id="港片看不停" tvg-name="港片看不停" tvg-logo="https://huyaimg.msstatic.com/avatar/1057/19/cfa1920f4143755f592ea4d39c8bbc_180_135.jpg?1609139541" group-title="轮播频道",港片看不停
 https://live.metshop.top/huya/23865096
+#EXTINF:-1 tvg-id="港片看不停" tvg-name="港片看不停" tvg-logo="https://huyaimg.msstatic.com/avatar/1057/19/cfa1920f4143755f592ea4d39c8bbc_180_135.jpg?1609139541" group-title="轮播频道",港片看不停
+http://8.155.43.98:35455/huya/23865096
+#EXTINF:-1 tvg-id="港片看不停" tvg-name="港片看不停" tvg-logo="https://huyaimg.msstatic.com/avatar/1057/19/cfa1920f4143755f592ea4d39c8bbc_180_135.jpg?1609139541" group-title="轮播频道",港片看不停
+http://222.186.39.21:35466/huya/23865096
+#EXTINF:-1 tvg-id="港片看不停" tvg-name="港片看不停" tvg-logo="https://huyaimg.msstatic.com/avatar/1057/19/cfa1920f4143755f592ea4d39c8bbc_180_135.jpg?1609139541" group-title="轮播频道",港片看不停
+http://1.14.124.206:35455/huya/23865096
+#EXTINF:-1 tvg-id="港片看不停" tvg-name="港片看不停" tvg-logo="https://huyaimg.msstatic.com/avatar/1057/19/cfa1920f4143755f592ea4d39c8bbc_180_135.jpg?1609139541" group-title="轮播频道",港片看不停
+https://isus.cc/php/huya.php?id=23865096
 #EXTINF:-1 tvg-id="冒险电影放映厅" tvg-name="冒险电影放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1089/23/a0eb94473d253150164bc0b03ba434_180_135.jpg?1612426638" group-title="轮播频道",冒险电影放映厅
 https://live.ottiptv.cc/huya/21059566
 #EXTINF:-1 tvg-id="冒险电影放映厅" tvg-name="冒险电影放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1089/23/a0eb94473d253150164bc0b03ba434_180_135.jpg?1612426638" group-title="轮播频道",冒险电影放映厅
 http://live.metshop.top/huya/21059566?cdn=alicdn
 #EXTINF:-1 tvg-id="冒险电影放映厅" tvg-name="冒险电影放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1089/23/a0eb94473d253150164bc0b03ba434_180_135.jpg?1612426638" group-title="轮播频道",冒险电影放映厅
 https://live.metshop.top/huya/21059566
+#EXTINF:-1 tvg-id="冒险电影放映厅" tvg-name="冒险电影放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1089/23/a0eb94473d253150164bc0b03ba434_180_135.jpg?1612426638" group-title="轮播频道",冒险电影放映厅
+http://8.155.43.98:35455/huya/21059566
+#EXTINF:-1 tvg-id="冒险电影放映厅" tvg-name="冒险电影放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1089/23/a0eb94473d253150164bc0b03ba434_180_135.jpg?1612426638" group-title="轮播频道",冒险电影放映厅
+http://222.186.39.21:35466/huya/21059566
+#EXTINF:-1 tvg-id="冒险电影放映厅" tvg-name="冒险电影放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1089/23/a0eb94473d253150164bc0b03ba434_180_135.jpg?1612426638" group-title="轮播频道",冒险电影放映厅
+http://1.14.124.206:35455/huya/21059566
+#EXTINF:-1 tvg-id="冒险电影放映厅" tvg-name="冒险电影放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1089/23/a0eb94473d253150164bc0b03ba434_180_135.jpg?1612426638" group-title="轮播频道",冒险电影放映厅
+https://isus.cc/php/huya.php?id=21059566
+#EXTINF:-1 tvg-id="冒险电影放映厅" tvg-name="冒险电影放映厅" tvg-logo="https://huyaimg.msstatic.com/avatar/1089/23/a0eb94473d253150164bc0b03ba434_180_135.jpg?1612426638" group-title="轮播频道",冒险电影放映厅
+http://footyun.top:35455/huya/21059566
 #EXTINF:-1 tvg-id="港剧慢品汇" tvg-name="港剧慢品汇" tvg-logo="https://huyaimg.msstatic.com/avatar/1080/10/3c388a46eb8d750ce27de69cd0afbd_180_135.jpg?1612247383" group-title="轮播频道",港剧慢品汇
 http://footyun.top:35455/huya/23865142
 #EXTINF:-1 tvg-id="港剧慢品汇" tvg-name="港剧慢品汇" tvg-logo="https://huyaimg.msstatic.com/avatar/1080/10/3c388a46eb8d750ce27de69cd0afbd_180_135.jpg?1612247383" group-title="轮播频道",港剧慢品汇
@@ -1352,6 +1616,10 @@ https://live.metshop.top/huya/23865142
 http://live.metshop.top/huya/23865142?cdn=alicdn
 #EXTINF:-1 tvg-id="港剧慢品汇" tvg-name="港剧慢品汇" tvg-logo="https://huyaimg.msstatic.com/avatar/1080/10/3c388a46eb8d750ce27de69cd0afbd_180_135.jpg?1612247383" group-title="轮播频道",港剧慢品汇
 https://live.ottiptv.cc/huya/23865142
+#EXTINF:-1 tvg-id="港剧慢品汇" tvg-name="港剧慢品汇" tvg-logo="https://huyaimg.msstatic.com/avatar/1080/10/3c388a46eb8d750ce27de69cd0afbd_180_135.jpg?1612247383" group-title="轮播频道",港剧慢品汇
+http://222.186.39.21:35466/huya/23865142
+#EXTINF:-1 tvg-id="港剧慢品汇" tvg-name="港剧慢品汇" tvg-logo="https://huyaimg.msstatic.com/avatar/1080/10/3c388a46eb8d750ce27de69cd0afbd_180_135.jpg?1612247383" group-title="轮播频道",港剧慢品汇
+https://isus.cc/php/huya.php?id=23865142
 #EXTINF:-1 tvg-id="电视精彩连续剧" tvg-name="电视精彩连续剧" tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="轮播频道",电视精彩连续剧
 http://222.186.39.21:35466/huya/29465848
 #EXTINF:-1 tvg-id="电视精彩连续剧" tvg-name="电视精彩连续剧" tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="轮播频道",电视精彩连续剧
@@ -1360,12 +1628,16 @@ https://live.ottiptv.cc/huya/29465848
 http://live.metshop.top/huya/29465848?cdn=alicdn
 #EXTINF:-1 tvg-id="电视精彩连续剧" tvg-name="电视精彩连续剧" tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="轮播频道",电视精彩连续剧
 https://live.metshop.top/huya/29465848
+#EXTINF:-1 tvg-id="电视精彩连续剧" tvg-name="电视精彩连续剧" tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="轮播频道",电视精彩连续剧
+http://footyun.top:35455/huya/29465848
 #EXTINF:-1 tvg-id="港剧日常" tvg-name="港剧日常" tvg-logo="https://huyaimg.msstatic.com/avatar/1096/f0/fdd8c33af8aaba00ad6b19766ff0f2_180_135.jpg?1612406459" group-title="轮播频道",港剧日常
 http://live.metshop.top/huya/23903123?cdn=alicdn
 #EXTINF:-1 tvg-id="港剧日常" tvg-name="港剧日常" tvg-logo="https://huyaimg.msstatic.com/avatar/1096/f0/fdd8c33af8aaba00ad6b19766ff0f2_180_135.jpg?1612406459" group-title="轮播频道",港剧日常
 https://live.ottiptv.cc/huya/23903123
 #EXTINF:-1 tvg-id="港剧日常" tvg-name="港剧日常" tvg-logo="https://huyaimg.msstatic.com/avatar/1096/f0/fdd8c33af8aaba00ad6b19766ff0f2_180_135.jpg?1612406459" group-title="轮播频道",港剧日常
 https://live.metshop.top/huya/23903123
+#EXTINF:-1 tvg-id="港剧日常" tvg-name="港剧日常" tvg-logo="https://huyaimg.msstatic.com/avatar/1096/f0/fdd8c33af8aaba00ad6b19766ff0f2_180_135.jpg?1612406459" group-title="轮播频道",港剧日常
+http://222.186.39.21:35466/huya/23903123
 #EXTINF:-1 tvg-id="经典剧好看" tvg-name="经典剧好看" tvg-logo="https://huyaimg.msstatic.com/avatar/1019/d3/9805b0c0dea4d38e9cf33562d9abd3_180_135.jpg?1604478148" group-title="轮播频道",经典剧好看
 http://footyun.top:35455/huya/23490183
 #EXTINF:-1 tvg-id="经典剧好看" tvg-name="经典剧好看" tvg-logo="https://huyaimg.msstatic.com/avatar/1019/d3/9805b0c0dea4d38e9cf33562d9abd3_180_135.jpg?1604478148" group-title="轮播频道",经典剧好看
@@ -1374,12 +1646,26 @@ https://live.metshop.top/huya/23490183
 https://live.ottiptv.cc/huya/23490183
 #EXTINF:-1 tvg-id="经典剧好看" tvg-name="经典剧好看" tvg-logo="https://huyaimg.msstatic.com/avatar/1019/d3/9805b0c0dea4d38e9cf33562d9abd3_180_135.jpg?1604478148" group-title="轮播频道",经典剧好看
 http://live.metshop.top/huya/23490183?cdn=alicdn
+#EXTINF:-1 tvg-id="经典剧好看" tvg-name="经典剧好看" tvg-logo="https://huyaimg.msstatic.com/avatar/1019/d3/9805b0c0dea4d38e9cf33562d9abd3_180_135.jpg?1604478148" group-title="轮播频道",经典剧好看
+http://222.186.39.21:35466/huya/23490183
+#EXTINF:-1 tvg-id="经典剧好看" tvg-name="经典剧好看" tvg-logo="https://huyaimg.msstatic.com/avatar/1019/d3/9805b0c0dea4d38e9cf33562d9abd3_180_135.jpg?1604478148" group-title="轮播频道",经典剧好看
+https://isus.cc/php/huya.php?id=23490183
 #EXTINF:-1 tvg-id="阿虎爱港剧" tvg-name="阿虎爱港剧" tvg-logo="https://huyaimg.msstatic.com/avatar/1011/aa/b6dbf58bfe00fa986004d69dcd414b_180_135.jpg?1612247776" group-title="轮播频道",阿虎爱港剧
 https://live.ottiptv.cc/huya/23863833
 #EXTINF:-1 tvg-id="阿虎爱港剧" tvg-name="阿虎爱港剧" tvg-logo="https://huyaimg.msstatic.com/avatar/1011/aa/b6dbf58bfe00fa986004d69dcd414b_180_135.jpg?1612247776" group-title="轮播频道",阿虎爱港剧
 https://live.metshop.top/huya/23863833
 #EXTINF:-1 tvg-id="阿虎爱港剧" tvg-name="阿虎爱港剧" tvg-logo="https://huyaimg.msstatic.com/avatar/1011/aa/b6dbf58bfe00fa986004d69dcd414b_180_135.jpg?1612247776" group-title="轮播频道",阿虎爱港剧
 http://live.metshop.top/huya/23863833?cdn=alicdn
+#EXTINF:-1 tvg-id="阿虎爱港剧" tvg-name="阿虎爱港剧" tvg-logo="https://huyaimg.msstatic.com/avatar/1011/aa/b6dbf58bfe00fa986004d69dcd414b_180_135.jpg?1612247776" group-title="轮播频道",阿虎爱港剧
+http://8.155.43.98:35455/huya/23863833
+#EXTINF:-1 tvg-id="阿虎爱港剧" tvg-name="阿虎爱港剧" tvg-logo="https://huyaimg.msstatic.com/avatar/1011/aa/b6dbf58bfe00fa986004d69dcd414b_180_135.jpg?1612247776" group-title="轮播频道",阿虎爱港剧
+http://222.186.39.21:35466/huya/23863833
+#EXTINF:-1 tvg-id="阿虎爱港剧" tvg-name="阿虎爱港剧" tvg-logo="https://huyaimg.msstatic.com/avatar/1011/aa/b6dbf58bfe00fa986004d69dcd414b_180_135.jpg?1612247776" group-title="轮播频道",阿虎爱港剧
+http://1.14.124.206:35455/huya/23863833
+#EXTINF:-1 tvg-id="阿虎爱港剧" tvg-name="阿虎爱港剧" tvg-logo="https://huyaimg.msstatic.com/avatar/1011/aa/b6dbf58bfe00fa986004d69dcd414b_180_135.jpg?1612247776" group-title="轮播频道",阿虎爱港剧
+https://isus.cc/php/huya.php?id=23863833
+#EXTINF:-1 tvg-id="阿虎爱港剧" tvg-name="阿虎爱港剧" tvg-logo="https://huyaimg.msstatic.com/avatar/1011/aa/b6dbf58bfe00fa986004d69dcd414b_180_135.jpg?1612247776" group-title="轮播频道",阿虎爱港剧
+http://footyun.top:35455/huya/23863833
 #EXTINF:-1 tvg-id="喜剧大赏" tvg-name="喜剧大赏" tvg-logo="https://huyaimg.msstatic.com/avatar/1081/94/5aa8562286a3e8de48e9fd359beeec_180_135.jpg?1766634733" group-title="轮播频道",喜剧大赏
 http://1.14.124.206:35455/huya/30631713
 #EXTINF:-1 tvg-id="喜剧大赏" tvg-name="喜剧大赏" tvg-logo="https://huyaimg.msstatic.com/avatar/1081/94/5aa8562286a3e8de48e9fd359beeec_180_135.jpg?1766634733" group-title="轮播频道",喜剧大赏
@@ -1388,6 +1674,12 @@ https://live.ottiptv.cc/huya/30631713
 https://live.metshop.top/huya/30631713
 #EXTINF:-1 tvg-id="喜剧大赏" tvg-name="喜剧大赏" tvg-logo="https://huyaimg.msstatic.com/avatar/1081/94/5aa8562286a3e8de48e9fd359beeec_180_135.jpg?1766634733" group-title="轮播频道",喜剧大赏
 http://live.metshop.top/huya/30631713?cdn=alicdn
+#EXTINF:-1 tvg-id="喜剧大赏" tvg-name="喜剧大赏" tvg-logo="https://huyaimg.msstatic.com/avatar/1081/94/5aa8562286a3e8de48e9fd359beeec_180_135.jpg?1766634733" group-title="轮播频道",喜剧大赏
+http://8.155.43.98:35455/huya/30631713
+#EXTINF:-1 tvg-id="喜剧大赏" tvg-name="喜剧大赏" tvg-logo="https://huyaimg.msstatic.com/avatar/1081/94/5aa8562286a3e8de48e9fd359beeec_180_135.jpg?1766634733" group-title="轮播频道",喜剧大赏
+http://222.186.39.21:35466/huya/30631713
+#EXTINF:-1 tvg-id="喜剧大赏" tvg-name="喜剧大赏" tvg-logo="https://huyaimg.msstatic.com/avatar/1081/94/5aa8562286a3e8de48e9fd359beeec_180_135.jpg?1766634733" group-title="轮播频道",喜剧大赏
+http://footyun.top:35455/huya/30631713
 #EXTINF:-1 tvg-id="港剧迷狂热" tvg-name="港剧迷狂热" tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="轮播频道",港剧迷狂热
 http://8.155.43.98:35455/huya/29465847
 #EXTINF:-1 tvg-id="港剧迷狂热" tvg-name="港剧迷狂热" tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="轮播频道",港剧迷狂热
@@ -1398,12 +1690,22 @@ http://live.metshop.top/huya/29465847?cdn=alicdn
 https://live.ottiptv.cc/huya/29465847
 #EXTINF:-1 tvg-id="港剧迷狂热" tvg-name="港剧迷狂热" tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="轮播频道",港剧迷狂热
 https://live.metshop.top/huya/29465847
+#EXTINF:-1 tvg-id="港剧迷狂热" tvg-name="港剧迷狂热" tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="轮播频道",港剧迷狂热
+https://isus.cc/php/huya.php?id=29465847
+#EXTINF:-1 tvg-id="港剧迷狂热" tvg-name="港剧迷狂热" tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="轮播频道",港剧迷狂热
+http://footyun.top:35455/huya/29465847
 #EXTINF:-1 tvg-id="b古装大片" tvg-name="TVB古装大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1004/88/c729890bc75df0e48909835af4900a_180_135.jpg?1609128177" group-title="轮播频道",TVB古装大片
 http://live.metshop.top/huya/23865025?cdn=alicdn
 #EXTINF:-1 tvg-id="b古装大片" tvg-name="TVB古装大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1004/88/c729890bc75df0e48909835af4900a_180_135.jpg?1609128177" group-title="轮播频道",TVB古装大片
 https://live.ottiptv.cc/huya/23865025
 #EXTINF:-1 tvg-id="b古装大片" tvg-name="TVB古装大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1004/88/c729890bc75df0e48909835af4900a_180_135.jpg?1609128177" group-title="轮播频道",TVB古装大片
 https://live.metshop.top/huya/23865025
+#EXTINF:-1 tvg-id="b古装大片" tvg-name="TVB古装大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1004/88/c729890bc75df0e48909835af4900a_180_135.jpg?1609128177" group-title="轮播频道",TVB古装大片
+http://222.186.39.21:35466/huya/23865025
+#EXTINF:-1 tvg-id="b古装大片" tvg-name="TVB古装大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1004/88/c729890bc75df0e48909835af4900a_180_135.jpg?1609128177" group-title="轮播频道",TVB古装大片
+http://1.14.124.206:35455/huya/23865025
+#EXTINF:-1 tvg-id="b古装大片" tvg-name="TVB古装大片" tvg-logo="https://huyaimg.msstatic.com/avatar/1004/88/c729890bc75df0e48909835af4900a_180_135.jpg?1609128177" group-title="轮播频道",TVB古装大片
+https://isus.cc/php/huya.php?id=23865025
 #EXTINF:-1 tvg-id="第一放映室" tvg-name="第一放映室" tvg-logo="https://huyaimg.msstatic.com/avatar/1025/bb/1e0859d4333bfb299215d9301fce0f_180_135.jpg?1555061894" group-title="轮播频道",第一放映室
 https://isus.cc/php/huya.php?id=11352979
 #EXTINF:-1 tvg-id="第一放映室" tvg-name="第一放映室" tvg-logo="https://huyaimg.msstatic.com/avatar/1025/bb/1e0859d4333bfb299215d9301fce0f_180_135.jpg?1555061894" group-title="轮播频道",第一放映室
@@ -1412,6 +1714,10 @@ https://live.ottiptv.cc/huya/11352979
 http://live.metshop.top/huya/11352979?cdn=alicdn
 #EXTINF:-1 tvg-id="第一放映室" tvg-name="第一放映室" tvg-logo="https://huyaimg.msstatic.com/avatar/1025/bb/1e0859d4333bfb299215d9301fce0f_180_135.jpg?1555061894" group-title="轮播频道",第一放映室
 https://live.metshop.top/huya/11352979
+#EXTINF:-1 tvg-id="第一放映室" tvg-name="第一放映室" tvg-logo="https://huyaimg.msstatic.com/avatar/1025/bb/1e0859d4333bfb299215d9301fce0f_180_135.jpg?1555061894" group-title="轮播频道",第一放映室
+http://8.155.43.98:35455/huya/11352979
+#EXTINF:-1 tvg-id="第一放映室" tvg-name="第一放映室" tvg-logo="https://huyaimg.msstatic.com/avatar/1025/bb/1e0859d4333bfb299215d9301fce0f_180_135.jpg?1555061894" group-title="轮播频道",第一放映室
+http://footyun.top:35455/huya/11352979
 #EXTINF:-1 tvg-id="港剧伴你行" tvg-name="港剧伴你行" tvg-logo="https://huyaimg.msstatic.com/avatar/1039/28/fd3f3771902f4326973d5b9f37b6b5_180_135.jpg?1612405609" group-title="轮播频道",港剧伴你行
 http://footyun.top:35455/huya/23903183
 #EXTINF:-1 tvg-id="港剧伴你行" tvg-name="港剧伴你行" tvg-logo="https://huyaimg.msstatic.com/avatar/1039/28/fd3f3771902f4326973d5b9f37b6b5_180_135.jpg?1612405609" group-title="轮播频道",港剧伴你行
@@ -1424,12 +1730,18 @@ https://live.metshop.top/huya/23903183
 http://live.metshop.top/huya/23903183?cdn=alicdn
 #EXTINF:-1 tvg-id="港剧伴你行" tvg-name="港剧伴你行" tvg-logo="https://huyaimg.msstatic.com/avatar/1039/28/fd3f3771902f4326973d5b9f37b6b5_180_135.jpg?1612405609" group-title="轮播频道",港剧伴你行
 https://live.ottiptv.cc/huya/23903183
+#EXTINF:-1 tvg-id="港剧伴你行" tvg-name="港剧伴你行" tvg-logo="https://huyaimg.msstatic.com/avatar/1039/28/fd3f3771902f4326973d5b9f37b6b5_180_135.jpg?1612405609" group-title="轮播频道",港剧伴你行
+https://isus.cc/php/huya.php?id=23903183
 #EXTINF:-1 tvg-id="港式宫斗剧" tvg-name="港式宫斗剧" tvg-logo="https://huyaimg.msstatic.com/avatar/1041/7c/cfd75a9685810e554be7a40064a2c0_180_135.jpg?1609138832" group-title="轮播频道",港式宫斗剧
 http://live.metshop.top/huya/23865036?cdn=alicdn
 #EXTINF:-1 tvg-id="港式宫斗剧" tvg-name="港式宫斗剧" tvg-logo="https://huyaimg.msstatic.com/avatar/1041/7c/cfd75a9685810e554be7a40064a2c0_180_135.jpg?1609138832" group-title="轮播频道",港式宫斗剧
 https://live.ottiptv.cc/huya/23865036
 #EXTINF:-1 tvg-id="港式宫斗剧" tvg-name="港式宫斗剧" tvg-logo="https://huyaimg.msstatic.com/avatar/1041/7c/cfd75a9685810e554be7a40064a2c0_180_135.jpg?1609138832" group-title="轮播频道",港式宫斗剧
 https://live.metshop.top/huya/23865036
+#EXTINF:-1 tvg-id="港式宫斗剧" tvg-name="港式宫斗剧" tvg-logo="https://huyaimg.msstatic.com/avatar/1041/7c/cfd75a9685810e554be7a40064a2c0_180_135.jpg?1609138832" group-title="轮播频道",港式宫斗剧
+http://222.186.39.21:35466/huya/23865036
+#EXTINF:-1 tvg-id="港式宫斗剧" tvg-name="港式宫斗剧" tvg-logo="https://huyaimg.msstatic.com/avatar/1041/7c/cfd75a9685810e554be7a40064a2c0_180_135.jpg?1609138832" group-title="轮播频道",港式宫斗剧
+https://isus.cc/php/huya.php?id=23865036
 #EXTINF:-1 tvg-id="港剧经典回味无穷" tvg-name="港剧经典回味无穷" tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="轮播频道",港剧经典回味无穷
 http://live.metshop.top/huya/29465861?cdn=alicdn
 #EXTINF:-1 tvg-id="港剧经典回味无穷" tvg-name="港剧经典回味无穷" tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="轮播频道",港剧经典回味无穷
@@ -1446,6 +1758,8 @@ https://live.ottiptv.cc/huya/23863818
 https://live.metshop.top/huya/23863818
 #EXTINF:-1 tvg-id="b爱情故事" tvg-name="TVB爱情故事" tvg-logo="https://huyaimg.msstatic.com/avatar/1057/0f/d128d50b4f200471973ac197397889_180_135.jpg?1612404678" group-title="轮播频道",TVB爱情故事
 http://live.metshop.top/huya/23863818?cdn=alicdn
+#EXTINF:-1 tvg-id="b爱情故事" tvg-name="TVB爱情故事" tvg-logo="https://huyaimg.msstatic.com/avatar/1057/0f/d128d50b4f200471973ac197397889_180_135.jpg?1612404678" group-title="轮播频道",TVB爱情故事
+https://isus.cc/php/huya.php?id=23863818
 #EXTINF:-1 tvg-id="我是周粤驰" tvg-name="我是周粤驰" tvg-logo="https://huyaimg.msstatic.com/avatar/1084/47/c2f18aa9b3e3bef6d544692fc5c0b2_180_135.jpg?1609127632" group-title="轮播频道",我是周粤驰
 http://8.155.43.98:35455/huya/23864973
 #EXTINF:-1 tvg-id="我是周粤驰" tvg-name="我是周粤驰" tvg-logo="https://huyaimg.msstatic.com/avatar/1084/47/c2f18aa9b3e3bef6d544692fc5c0b2_180_135.jpg?1609127632" group-title="轮播频道",我是周粤驰
@@ -1458,6 +1772,10 @@ https://live.ottiptv.cc/huya/23864973
 https://live.metshop.top/huya/23864973
 #EXTINF:-1 tvg-id="我是周粤驰" tvg-name="我是周粤驰" tvg-logo="https://huyaimg.msstatic.com/avatar/1084/47/c2f18aa9b3e3bef6d544692fc5c0b2_180_135.jpg?1609127632" group-title="轮播频道",我是周粤驰
 http://live.metshop.top/huya/23864973?cdn=alicdn
+#EXTINF:-1 tvg-id="我是周粤驰" tvg-name="我是周粤驰" tvg-logo="https://huyaimg.msstatic.com/avatar/1084/47/c2f18aa9b3e3bef6d544692fc5c0b2_180_135.jpg?1609127632" group-title="轮播频道",我是周粤驰
+https://isus.cc/php/huya.php?id=23864973
+#EXTINF:-1 tvg-id="我是周粤驰" tvg-name="我是周粤驰" tvg-logo="https://huyaimg.msstatic.com/avatar/1084/47/c2f18aa9b3e3bef6d544692fc5c0b2_180_135.jpg?1609127632" group-title="轮播频道",我是周粤驰
+http://footyun.top:35455/huya/23864973
 #EXTINF:-1 tvg-id="飙车的老司机" tvg-name="飙车的老司机" tvg-logo="http://huyaimg.msstatic.com/avatar/1043/1b/1f00f81ac5ebce10569c9e1abc426e_180_135.jpg?1456451235" group-title="轮播频道",飙车的老司机
 http://8.155.43.98:35455/huya/11352894
 #EXTINF:-1 tvg-id="飙车的老司机" tvg-name="飙车的老司机" tvg-logo="http://huyaimg.msstatic.com/avatar/1043/1b/1f00f81ac5ebce10569c9e1abc426e_180_135.jpg?1456451235" group-title="轮播频道",飙车的老司机
@@ -1470,12 +1788,20 @@ https://live.metshop.top/huya/11352894
 https://live.ottiptv.cc/huya/11352894
 #EXTINF:-1 tvg-id="飙车的老司机" tvg-name="飙车的老司机" tvg-logo="http://huyaimg.msstatic.com/avatar/1043/1b/1f00f81ac5ebce10569c9e1abc426e_180_135.jpg?1456451235" group-title="轮播频道",飙车的老司机
 http://live.metshop.top/huya/11352894?cdn=alicdn
+#EXTINF:-1 tvg-id="飙车的老司机" tvg-name="飙车的老司机" tvg-logo="http://huyaimg.msstatic.com/avatar/1043/1b/1f00f81ac5ebce10569c9e1abc426e_180_135.jpg?1456451235" group-title="轮播频道",飙车的老司机
+http://222.186.39.21:35466/huya/11352894
 #EXTINF:-1 tvg-id="流浪者行" tvg-name="流浪者行" tvg-logo="https://huyaimg.msstatic.com/avatar/1077/8c/b328d8bc24482213c26852243abb1b_180_135.jpg?1586498617" group-title="轮播频道",流浪者行
 http://live.metshop.top/huya/20985829?cdn=alicdn
 #EXTINF:-1 tvg-id="流浪者行" tvg-name="流浪者行" tvg-logo="https://huyaimg.msstatic.com/avatar/1077/8c/b328d8bc24482213c26852243abb1b_180_135.jpg?1586498617" group-title="轮播频道",流浪者行
 https://live.ottiptv.cc/huya/20985829
 #EXTINF:-1 tvg-id="流浪者行" tvg-name="流浪者行" tvg-logo="https://huyaimg.msstatic.com/avatar/1077/8c/b328d8bc24482213c26852243abb1b_180_135.jpg?1586498617" group-title="轮播频道",流浪者行
 https://live.metshop.top/huya/20985829
+#EXTINF:-1 tvg-id="流浪者行" tvg-name="流浪者行" tvg-logo="https://huyaimg.msstatic.com/avatar/1077/8c/b328d8bc24482213c26852243abb1b_180_135.jpg?1586498617" group-title="轮播频道",流浪者行
+http://1.14.124.206:35455/huya/20985829
+#EXTINF:-1 tvg-id="流浪者行" tvg-name="流浪者行" tvg-logo="https://huyaimg.msstatic.com/avatar/1077/8c/b328d8bc24482213c26852243abb1b_180_135.jpg?1586498617" group-title="轮播频道",流浪者行
+https://isus.cc/php/huya.php?id=20985829
+#EXTINF:-1 tvg-id="流浪者行" tvg-name="流浪者行" tvg-logo="https://huyaimg.msstatic.com/avatar/1077/8c/b328d8bc24482213c26852243abb1b_180_135.jpg?1586498617" group-title="轮播频道",流浪者行
+http://footyun.top:35455/huya/20985829
 #EXTINF:-1 tvg-id="林正英经典电影" tvg-name="林正英-经典电影" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/15/1536159096/u1536159096mZClTOe.jpeg" group-title="轮播频道",林正英-经典电影
 http://footyun.top:35455/yy/34229877
 #EXTINF:-1 tvg-id="林正英经典电影" tvg-name="林正英-经典电影" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/15/1536159096/u1536159096mZClTOe.jpeg" group-title="轮播频道",林正英-经典电影
@@ -1506,6 +1832,8 @@ http://live.metshop.top/huya/23824164?cdn=alicdn
 https://live.metshop.top/huya/23824164
 #EXTINF:-1 tvg-id="83射雕英雄传" tvg-name="射雕英雄传" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/69/2552691967/u2552691967t-dRFJI.png" group-title="轮播频道",射雕英雄传
 https://isus.cc/php/huya.php?id=23824164
+#EXTINF:-1 tvg-id="83射雕英雄传" tvg-name="射雕英雄传" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/69/2552691967/u2552691967t-dRFJI.png" group-title="轮播频道",射雕英雄传
+http://222.186.39.21:35466/huya/23824164
 #EXTINF:-1 tvg-id="武林外传" tvg-name="武林外传" tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="轮播频道",武林外传
 http://footyun.top:35455/yy/1355344777
 #EXTINF:-1 tvg-id="武林外传" tvg-name="武林外传" tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="轮播频道",武林外传
@@ -1520,6 +1848,10 @@ https://live.metshop.top/yy/1355344777
 https://live.ottiptv.cc/yy/1355652820
 #EXTINF:-1 tvg-id="武林外传" tvg-name="武林外传" tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="轮播频道",武林外传
 https://live.ottiptv.cc/yy/1355344777
+#EXTINF:-1 tvg-id="武林外传" tvg-name="武林外传" tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="轮播频道",武林外传
+https://live.ottiptv.cc/yy/1354282410
+#EXTINF:-1 tvg-id="武林外传" tvg-name="武林外传" tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="轮播频道",武林外传
+http://footyun.top:35455/yy/1354282410
 #EXTINF:-1 tvg-id="鹿鼎记周星驰版" tvg-name="鹿鼎记-周星驰版" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/52/2454523392/u2454523392hIIEdOS.png" group-title="轮播频道",鹿鼎记-周星驰版
 http://footyun.top:35455/yy/1354658049
 #EXTINF:-1 tvg-id="鹿鼎记周星驰版" tvg-name="鹿鼎记-周星驰版" tvg-logo="http://downhdlogo.yy.com/hdlogo/6060/60/60/52/2454523392/u2454523392hIIEdOS.png" group-title="轮播频道",鹿鼎记-周星驰版
@@ -1538,6 +1870,12 @@ http://footyun.top:35455/yy/1382735541
 https://live.metshop.top/yy/1382735541
 #EXTINF:-1 tvg-id="情满四合院高分电视剧" tvg-name="情满四合院" tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="轮播频道",情满四合院
 https://live.ottiptv.cc/yy/1382735541
+#EXTINF:-1 tvg-id="寻秦记穿越剧经典" tvg-name="寻秦记" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778173/u2956778173d4Hhqbe.jpg" group-title="轮播频道",寻秦记
+https://live.ottiptv.cc/yy/1382851591
+#EXTINF:-1 tvg-id="寻秦记穿越剧经典" tvg-name="寻秦记" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778173/u2956778173d4Hhqbe.jpg" group-title="轮播频道",寻秦记
+https://live.metshop.top/yy/1382851591
+#EXTINF:-1 tvg-id="寻秦记穿越剧经典" tvg-name="寻秦记" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/500/500/77/2956778173/u2956778173d4Hhqbe.jpg" group-title="轮播频道",寻秦记
+http://footyun.top:35455/yy/1382851591
 #EXTINF:-1 tvg-id="动作大片" tvg-name="动作大片" tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="轮播频道",动作大片
 http://footyun.top:35455/yy/1354930926
 #EXTINF:-1 tvg-id="动作大片" tvg-name="动作大片" tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="轮播频道",动作大片
@@ -1550,8 +1888,6 @@ http://footyun.top:35455/yy/1354936201
 https://live.metshop.top/yy/1354936201
 #EXTINF:-1 tvg-id="夏洛特烦恼国内电影喜剧" tvg-name="夏洛特烦恼-国内电影-喜剧" tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="轮播频道",夏洛特烦恼-国内电影-喜剧
 https://live.ottiptv.cc/yy/1354936201
-#EXTINF:-1 tvg-id="陪你一起看好剧" tvg-name="陪你一起看好剧" tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="轮播频道",陪你一起看好剧
-http://cfss.cc/cdn/yy/1354932359.flv
 #EXTINF:-1 tvg-id="陪你一起看好剧" tvg-name="陪你一起看好剧" tvg-logo="https://s1.yy.com/guild/header/10001.jpg" group-title="轮播频道",陪你一起看好剧
 https://live.metshop.top/yy/1354932359
 #EXTINF:-1 tvg-id="古装剧" tvg-name="古装剧" tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/99/2952995563/u29529955630Nh11Z1.jpg" group-title="轮播频道",古装剧
@@ -1592,6 +1928,8 @@ https://live.metshop.top/huya/23735153
 https://live.ottiptv.cc/huya/23735153
 #EXTINF:-1 tvg-id="b职场剧大全" tvg-name="TVB职场剧大全" tvg-logo="" group-title="轮播频道",TVB职场剧大全
 http://live.metshop.top/huya/23735153?cdn=alicdn
+#EXTINF:-1 tvg-id="b职场剧大全" tvg-name="TVB职场剧大全" tvg-logo="" group-title="轮播频道",TVB职场剧大全
+https://isus.cc/php/huya.php?id=23735153
 #EXTINF:-1 tvg-id="吉林娱乐" tvg-name="吉林娱乐" tvg-logo="" group-title="轮播频道",吉林娱乐
 http://live.nctv.top/douyu1.php?id=9273031
 #EXTINF:-1 tvg-id="吉林娱乐" tvg-name="吉林娱乐" tvg-logo="" group-title="轮播频道",吉林娱乐
@@ -1620,6 +1958,8 @@ https://live.ottiptv.cc/huya/21059588
 https://live.metshop.top/huya/21059588
 #EXTINF:-1 tvg-id="电影斯坦森" tvg-name="电影_斯坦森" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_斯坦森
 https://lbds.us.ci/21059588
+#EXTINF:-1 tvg-id="电影斯坦森" tvg-name="电影_斯坦森" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_斯坦森
+http://222.186.39.21:35466/huya/21059588
 #EXTINF:-1 tvg-id="电影小鬼头" tvg-name="电影_小鬼头" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_小鬼头
 http://footyun.top:35455/huya/11352963
 #EXTINF:-1 tvg-id="电影小鬼头" tvg-name="电影_小鬼头" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_小鬼头
@@ -1632,6 +1972,8 @@ https://live.ottiptv.cc/huya/11352963
 http://live.metshop.top/huya/11352963?cdn=alicdn
 #EXTINF:-1 tvg-id="电影小鬼头" tvg-name="电影_小鬼头" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_小鬼头
 https://live.metshop.top/huya/11352963
+#EXTINF:-1 tvg-id="电影小鬼头" tvg-name="电影_小鬼头" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_小鬼头
+http://8.155.43.98:35455/huya/11352963
 #EXTINF:-1 tvg-id="电影八点档" tvg-name="电影_八点档" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_八点档
 http://footyun.top:35455/huya/880261
 #EXTINF:-1 tvg-id="电影八点档" tvg-name="电影_八点档" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_八点档
@@ -1658,6 +2000,14 @@ https://live.metshop.top/huya/21059599
 http://live.metshop.top/huya/21059599?cdn=alicdn
 #EXTINF:-1 tvg-id="电影蜘蛛侠" tvg-name="电影_蜘蛛侠" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_蜘蛛侠
 https://lbds.us.ci/21059599
+#EXTINF:-1 tvg-id="电影蜘蛛侠" tvg-name="电影_蜘蛛侠" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_蜘蛛侠
+http://8.155.43.98:35455/huya/21059599
+#EXTINF:-1 tvg-id="电影蜘蛛侠" tvg-name="电影_蜘蛛侠" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_蜘蛛侠
+http://222.186.39.21:35466/huya/21059599
+#EXTINF:-1 tvg-id="电影蜘蛛侠" tvg-name="电影_蜘蛛侠" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_蜘蛛侠
+http://1.14.124.206:35455/huya/21059599
+#EXTINF:-1 tvg-id="电影蜘蛛侠" tvg-name="电影_蜘蛛侠" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_蜘蛛侠
+http://footyun.top:35455/huya/21059599
 #EXTINF:-1 tvg-id="电影贺岁片" tvg-name="电影_贺岁片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_贺岁片
 http://222.186.39.21:35466/huya/11601986
 #EXTINF:-1 tvg-id="电影贺岁片" tvg-name="电影_贺岁片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_贺岁片
@@ -1672,6 +2022,10 @@ http://live.metshop.top/huya/11601986?cdn=alicdn
 https://live.ottiptv.cc/huya/11601986
 #EXTINF:-1 tvg-id="电影贺岁片" tvg-name="电影_贺岁片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_贺岁片
 https://lbds.us.ci/11601986
+#EXTINF:-1 tvg-id="电影贺岁片" tvg-name="电影_贺岁片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_贺岁片
+http://8.155.43.98:35455/huya/11601986
+#EXTINF:-1 tvg-id="电影贺岁片" tvg-name="电影_贺岁片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_贺岁片
+http://footyun.top:35455/huya/11601986
 #EXTINF:-1 tvg-id="电影功夫片" tvg-name="电影_功夫片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_功夫片
 http://footyun.top:35455/huya/11352941
 #EXTINF:-1 tvg-id="电影功夫片" tvg-name="电影_功夫片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_功夫片
@@ -1700,6 +2054,14 @@ https://live.ottiptv.cc/huya/11336719
 https://lbds.us.ci/11336719
 #EXTINF:-1 tvg-id="电影黑帮片" tvg-name="电影_黑帮片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_黑帮片
 http://live.metshop.top/huya/11336719?cdn=alicdn
+#EXTINF:-1 tvg-id="电影黑帮片" tvg-name="电影_黑帮片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_黑帮片
+http://8.155.43.98:35455/huya/11336719
+#EXTINF:-1 tvg-id="电影黑帮片" tvg-name="电影_黑帮片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_黑帮片
+http://222.186.39.21:35466/huya/11336719
+#EXTINF:-1 tvg-id="电影黑帮片" tvg-name="电影_黑帮片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_黑帮片
+http://1.14.124.206:35455/huya/11336719
+#EXTINF:-1 tvg-id="电影黑帮片" tvg-name="电影_黑帮片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_黑帮片
+http://footyun.top:35455/huya/11336719
 #EXTINF:-1 tvg-id="电影丧尸片" tvg-name="电影_丧尸片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_丧尸片
 http://footyun.top:35455/huya/21059578
 #EXTINF:-1 tvg-id="电影丧尸片" tvg-name="电影_丧尸片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_丧尸片
@@ -1732,6 +2094,8 @@ https://live.metshop.top/huya/11602075
 https://live.ottiptv.cc/huya/11602075
 #EXTINF:-1 tvg-id="电影灾难片" tvg-name="电影_灾难片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_灾难片
 http://live.metshop.top/huya/11602075?cdn=alicdn
+#EXTINF:-1 tvg-id="电影灾难片" tvg-name="电影_灾难片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_灾难片
+http://footyun.top:35455/huya/11602075
 #EXTINF:-1 tvg-id="电影谍战片" tvg-name="电影_谍战片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_谍战片
 http://footyun.top:35455/huya/21059587
 #EXTINF:-1 tvg-id="电影谍战片" tvg-name="电影_谍战片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_谍战片
@@ -1740,6 +2104,10 @@ https://live.ottiptv.cc/huya/21059587
 https://live.metshop.top/huya/21059587
 #EXTINF:-1 tvg-id="电影谍战片" tvg-name="电影_谍战片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_谍战片
 http://live.metshop.top/huya/21059587?cdn=alicdn
+#EXTINF:-1 tvg-id="电影谍战片" tvg-name="电影_谍战片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_谍战片
+http://8.155.43.98:35455/huya/21059587
+#EXTINF:-1 tvg-id="电影谍战片" tvg-name="电影_谍战片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_谍战片
+https://isus.cc/php/huya.php?id=21059587
 #EXTINF:-1 tvg-id="电影战争片" tvg-name="电影_战争片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_战争片
 http://1.14.124.206:35455/huya/21059574
 #EXTINF:-1 tvg-id="电影战争片" tvg-name="电影_战争片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_战争片
@@ -1776,6 +2144,12 @@ https://live.metshop.top/huya/11336590
 https://lbds.us.ci/11336590
 #EXTINF:-1 tvg-id="电影古装片" tvg-name="电影_古装片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_古装片
 https://isus.cc/php/huya.php?id=11336590
+#EXTINF:-1 tvg-id="电影古装片" tvg-name="电影_古装片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_古装片
+http://8.155.43.98:35455/huya/11336590
+#EXTINF:-1 tvg-id="电影古装片" tvg-name="电影_古装片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_古装片
+http://1.14.124.206:35455/huya/11336590
+#EXTINF:-1 tvg-id="电影古装片" tvg-name="电影_古装片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_古装片
+http://footyun.top:35455/huya/11336590
 #EXTINF:-1 tvg-id="电影高分动作" tvg-name="电影_高分动作" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_高分动作
 http://8.155.43.98:35455/huya/11352884
 #EXTINF:-1 tvg-id="电影高分动作" tvg-name="电影_高分动作" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_高分动作
@@ -1788,6 +2162,10 @@ https://live.ottiptv.cc/huya/11352884
 https://live.metshop.top/huya/11352884
 #EXTINF:-1 tvg-id="电影高分动作" tvg-name="电影_高分动作" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_高分动作
 https://lbds.us.ci/11352884
+#EXTINF:-1 tvg-id="电影高分动作" tvg-name="电影_高分动作" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_高分动作
+http://222.186.39.21:35466/huya/11352884
+#EXTINF:-1 tvg-id="电影高分动作" tvg-name="电影_高分动作" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_高分动作
+https://isus.cc/php/huya.php?id=11352884
 #EXTINF:-1 tvg-id="电影搞笑喜剧" tvg-name="电影_搞笑喜剧" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_搞笑喜剧
 http://8.155.43.98:35455/huya/11342423
 #EXTINF:-1 tvg-id="电影搞笑喜剧" tvg-name="电影_搞笑喜剧" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_搞笑喜剧
@@ -1800,6 +2178,8 @@ https://live.ottiptv.cc/huya/11342423
 https://live.metshop.top/huya/11342423
 #EXTINF:-1 tvg-id="电影搞笑喜剧" tvg-name="电影_搞笑喜剧" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_搞笑喜剧
 http://live.metshop.top/huya/11342423?cdn=alicdn
+#EXTINF:-1 tvg-id="电影搞笑喜剧" tvg-name="电影_搞笑喜剧" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_搞笑喜剧
+http://222.186.39.21:35466/huya/11342423
 #EXTINF:-1 tvg-id="电影喜剧专场" tvg-name="电影_喜剧专场" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_喜剧专场
 https://isus.cc/php/huya.php?id=11602044
 #EXTINF:-1 tvg-id="电影喜剧专场" tvg-name="电影_喜剧专场" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_喜剧专场
@@ -1810,6 +2190,8 @@ https://live.metshop.top/huya/11602044
 https://live.ottiptv.cc/huya/11602044
 #EXTINF:-1 tvg-id="电影喜剧专场" tvg-name="电影_喜剧专场" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_喜剧专场
 http://live.metshop.top/huya/11602044?cdn=alicdn
+#EXTINF:-1 tvg-id="电影喜剧专场" tvg-name="电影_喜剧专场" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_喜剧专场
+http://footyun.top:35455/huya/11602044
 #EXTINF:-1 tvg-id="电影不挤影院" tvg-name="电影_不挤影院" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_不挤影院
 http://222.186.39.21:35466/huya/11352897
 #EXTINF:-1 tvg-id="电影不挤影院" tvg-name="电影_不挤影院" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_不挤影院
@@ -1864,6 +2246,12 @@ https://live.ottiptv.cc/huya/11342419
 https://lbds.us.ci/11342419
 #EXTINF:-1 tvg-id="电影黑帮斗争" tvg-name="电影_黑帮斗争" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_黑帮斗争
 http://live.metshop.top/huya/11342419?cdn=alicdn
+#EXTINF:-1 tvg-id="电影黑帮斗争" tvg-name="电影_黑帮斗争" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_黑帮斗争
+http://8.155.43.98:35455/huya/11342419
+#EXTINF:-1 tvg-id="电影黑帮斗争" tvg-name="电影_黑帮斗争" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_黑帮斗争
+http://1.14.124.206:35455/huya/11342419
+#EXTINF:-1 tvg-id="电影黑帮斗争" tvg-name="电影_黑帮斗争" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_黑帮斗争
+https://isus.cc/php/huya.php?id=11342419
 #EXTINF:-1 tvg-id="电影嫣然影厅" tvg-name="电影_嫣然影厅" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_嫣然影厅
 http://footyun.top:35455/huya/11601977
 #EXTINF:-1 tvg-id="电影嫣然影厅" tvg-name="电影_嫣然影厅" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_嫣然影厅
@@ -1876,6 +2264,8 @@ https://live.ottiptv.cc/huya/11601977
 https://live.metshop.top/huya/11601977
 #EXTINF:-1 tvg-id="电影嫣然影厅" tvg-name="电影_嫣然影厅" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_嫣然影厅
 https://lbds.us.ci/11601977
+#EXTINF:-1 tvg-id="电影嫣然影厅" tvg-name="电影_嫣然影厅" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_嫣然影厅
+http://8.155.43.98:35455/huya/11601977
 #EXTINF:-1 tvg-id="电影许氏三杰" tvg-name="电影_许氏三杰" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_许氏三杰
 http://footyun.top:35455/huya/11602033
 #EXTINF:-1 tvg-id="电影许氏三杰" tvg-name="电影_许氏三杰" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_许氏三杰
@@ -1892,6 +2282,8 @@ http://live.metshop.top/huya/11602033?cdn=alicdn
 https://lbds.us.ci/11602033
 #EXTINF:-1 tvg-id="电影许氏三杰" tvg-name="电影_许氏三杰" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_许氏三杰
 https://isus.cc/php/huya.php?id=11602033
+#EXTINF:-1 tvg-id="电影许氏三杰" tvg-name="电影_许氏三杰" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_许氏三杰
+http://222.186.39.21:35466/huya/11602033
 #EXTINF:-1 tvg-id="电影经典港片" tvg-name="电影_经典港片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_经典港片
 http://footyun.top:35455/huya/11352965
 #EXTINF:-1 tvg-id="电影经典港片" tvg-name="电影_经典港片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_经典港片
@@ -1904,6 +2296,10 @@ https://live.ottiptv.cc/huya/11352965
 http://live.metshop.top/huya/11352965?cdn=alicdn
 #EXTINF:-1 tvg-id="电影经典港片" tvg-name="电影_经典港片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_经典港片
 https://lbds.us.ci/11352965
+#EXTINF:-1 tvg-id="电影经典港片" tvg-name="电影_经典港片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_经典港片
+http://8.155.43.98:35455/huya/11352965
+#EXTINF:-1 tvg-id="电影经典港片" tvg-name="电影_经典港片" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_经典港片
+https://isus.cc/php/huya.php?id=11352965
 #EXTINF:-1 tvg-id="电影镖行天下" tvg-name="电影_镖行天下" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_镖行天下
 http://8.155.43.98:35455/huya/11352969
 #EXTINF:-1 tvg-id="电影镖行天下" tvg-name="电影_镖行天下" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_镖行天下
@@ -1942,6 +2338,8 @@ https://lbds.us.ci/21059580
 https://live.ottiptv.cc/huya/21059580
 #EXTINF:-1 tvg-id="电影喜乐影院" tvg-name="电影_喜乐影院" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_喜乐影院
 https://live.metshop.top/huya/21059580
+#EXTINF:-1 tvg-id="电影喜乐影院" tvg-name="电影_喜乐影院" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_喜乐影院
+http://8.155.43.98:35455/huya/21059580
 #EXTINF:-1 tvg-id="电影蘑菇影厅" tvg-name="电影_蘑菇影厅" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_蘑菇影厅
 http://8.155.43.98:35455/huya/11601981
 #EXTINF:-1 tvg-id="电影蘑菇影厅" tvg-name="电影_蘑菇影厅" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_蘑菇影厅
@@ -1958,6 +2356,8 @@ https://live.ottiptv.cc/huya/11601981
 https://live.metshop.top/huya/11601981
 #EXTINF:-1 tvg-id="电影蘑菇影厅" tvg-name="电影_蘑菇影厅" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_蘑菇影厅
 https://isus.cc/php/huya.php?id=11601981
+#EXTINF:-1 tvg-id="电影蘑菇影厅" tvg-name="电影_蘑菇影厅" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_蘑菇影厅
+http://footyun.top:35455/huya/11601981
 #EXTINF:-1 tvg-id="电影搞笑恐怖" tvg-name="电影_搞笑恐怖" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_搞笑恐怖
 http://footyun.top:35455/huya/11601960
 #EXTINF:-1 tvg-id="电影搞笑恐怖" tvg-name="电影_搞笑恐怖" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_搞笑恐怖
@@ -1992,12 +2392,20 @@ http://live.metshop.top/huya/11352903?cdn=alicdn
 https://lbds.us.ci/11352903
 #EXTINF:-1 tvg-id="电影死神来了" tvg-name="电影_死神来了" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_死神来了
 https://isus.cc/php/huya.php?id=11352903
+#EXTINF:-1 tvg-id="电影死神来了" tvg-name="电影_死神来了" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_死神来了
+http://1.14.124.206:35455/huya/11352903
 #EXTINF:-1 tvg-id="电影变形金刚" tvg-name="电影_变形金刚" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_变形金刚
 http://live.metshop.top/huya/21059596?cdn=alicdn
 #EXTINF:-1 tvg-id="电影变形金刚" tvg-name="电影_变形金刚" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_变形金刚
 https://live.ottiptv.cc/huya/21059596
 #EXTINF:-1 tvg-id="电影变形金刚" tvg-name="电影_变形金刚" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_变形金刚
 https://live.metshop.top/huya/21059596
+#EXTINF:-1 tvg-id="电影变形金刚" tvg-name="电影_变形金刚" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_变形金刚
+http://8.155.43.98:35455/huya/21059596
+#EXTINF:-1 tvg-id="电影变形金刚" tvg-name="电影_变形金刚" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_变形金刚
+http://222.186.39.21:35466/huya/21059596
+#EXTINF:-1 tvg-id="电影变形金刚" tvg-name="电影_变形金刚" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_变形金刚
+https://isus.cc/php/huya.php?id=21059596
 #EXTINF:-1 tvg-id="电影怪兽系列" tvg-name="电影_怪兽系列" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_怪兽系列
 http://222.186.39.21:35466/huya/21059554
 #EXTINF:-1 tvg-id="电影怪兽系列" tvg-name="电影_怪兽系列" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_怪兽系列
@@ -2006,6 +2414,12 @@ https://live.ottiptv.cc/huya/21059554
 https://live.metshop.top/huya/21059554
 #EXTINF:-1 tvg-id="电影怪兽系列" tvg-name="电影_怪兽系列" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_怪兽系列
 http://live.metshop.top/huya/21059554?cdn=alicdn
+#EXTINF:-1 tvg-id="电影怪兽系列" tvg-name="电影_怪兽系列" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_怪兽系列
+http://8.155.43.98:35455/huya/21059554
+#EXTINF:-1 tvg-id="电影怪兽系列" tvg-name="电影_怪兽系列" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_怪兽系列
+http://1.14.124.206:35455/huya/21059554
+#EXTINF:-1 tvg-id="电影怪兽系列" tvg-name="电影_怪兽系列" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",电影_怪兽系列
+http://footyun.top:35455/huya/21059554
 #EXTINF:-1 tvg-id="剧集新三国" tvg-name="剧集_新三国" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",剧集_新三国
 http://8.155.43.98:35455/huya/11352944
 #EXTINF:-1 tvg-id="剧集新三国" tvg-name="剧集_新三国" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",剧集_新三国
@@ -2020,6 +2434,8 @@ https://live.metshop.top/huya/11352944
 http://live.metshop.top/huya/11352944?cdn=alicdn
 #EXTINF:-1 tvg-id="剧集新三国" tvg-name="剧集_新三国" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",剧集_新三国
 https://live.ottiptv.cc/huya/11352944
+#EXTINF:-1 tvg-id="剧集新三国" tvg-name="剧集_新三国" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",剧集_新三国
+http://1.14.124.206:35455/huya/11352944
 #EXTINF:-1 tvg-id="剧集新水浒" tvg-name="剧集_新水浒" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",剧集_新水浒
 http://footyun.top:35455/huya/11342384
 #EXTINF:-1 tvg-id="剧集新水浒" tvg-name="剧集_新水浒" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",剧集_新水浒
@@ -2032,6 +2448,10 @@ https://live.metshop.top/huya/11342384
 https://live.ottiptv.cc/huya/11342384
 #EXTINF:-1 tvg-id="剧集新水浒" tvg-name="剧集_新水浒" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",剧集_新水浒
 http://live.metshop.top/huya/11342384?cdn=alicdn
+#EXTINF:-1 tvg-id="剧集新水浒" tvg-name="剧集_新水浒" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",剧集_新水浒
+http://8.155.43.98:35455/huya/11342384
+#EXTINF:-1 tvg-id="剧集新水浒" tvg-name="剧集_新水浒" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",剧集_新水浒
+http://1.14.124.206:35455/huya/11342384
 #EXTINF:-1 tvg-id="剧集纪晓岚" tvg-name="剧集_纪晓岚" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",剧集_纪晓岚
 http://footyun.top:35455/huya/11342396
 #EXTINF:-1 tvg-id="剧集纪晓岚" tvg-name="剧集_纪晓岚" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",剧集_纪晓岚
@@ -2090,6 +2510,8 @@ https://live.metshop.top/huya/11342430
 https://live.ottiptv.cc/huya/11342430
 #EXTINF:-1 tvg-id="剧集士兵突击" tvg-name="剧集_士兵突击" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",剧集_士兵突击
 http://live.metshop.top/huya/11342430?cdn=alicdn
+#EXTINF:-1 tvg-id="剧集士兵突击" tvg-name="剧集_士兵突击" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",剧集_士兵突击
+http://8.155.43.98:35455/huya/11342430
 #EXTINF:-1 tvg-id="剧集爱情公寓" tvg-name="剧集_爱情公寓" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",剧集_爱情公寓
 http://footyun.top:35455/huya/11336726
 #EXTINF:-1 tvg-id="剧集爱情公寓" tvg-name="剧集_爱情公寓" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",剧集_爱情公寓
@@ -2112,6 +2534,14 @@ http://live.metshop.top/huya/21059598?cdn=alicdn
 https://live.ottiptv.cc/huya/21059598
 #EXTINF:-1 tvg-id="剧集武林外传" tvg-name="剧集_武林外传" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",剧集_武林外传
 https://live.metshop.top/huya/21059598
+#EXTINF:-1 tvg-id="剧集武林外传" tvg-name="剧集_武林外传" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",剧集_武林外传
+http://8.155.43.98:35455/huya/21059598
+#EXTINF:-1 tvg-id="剧集武林外传" tvg-name="剧集_武林外传" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",剧集_武林外传
+http://222.186.39.21:35466/huya/21059598
+#EXTINF:-1 tvg-id="剧集武林外传" tvg-name="剧集_武林外传" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",剧集_武林外传
+http://1.14.124.206:35455/huya/21059598
+#EXTINF:-1 tvg-id="剧集武林外传" tvg-name="剧集_武林外传" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",剧集_武林外传
+http://footyun.top:35455/huya/21059598
 #EXTINF:-1 tvg-id="剧集地下交通站" tvg-name="剧集_地下交通站" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",剧集_地下交通站
 http://footyun.top:35455/huya/11342433
 #EXTINF:-1 tvg-id="剧集地下交通站" tvg-name="剧集_地下交通站" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",剧集_地下交通站
@@ -2142,6 +2572,8 @@ https://live.ottiptv.cc/huya/11342426
 http://live.metshop.top/huya/11342426?cdn=alicdn
 #EXTINF:-1 tvg-id="剧集邻里一家亲" tvg-name="剧集_邻里一家亲" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",剧集_邻里一家亲
 https://live.metshop.top/huya/11342426
+#EXTINF:-1 tvg-id="剧集邻里一家亲" tvg-name="剧集_邻里一家亲" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",剧集_邻里一家亲
+http://222.186.39.21:35466/huya/11342426
 #EXTINF:-1 tvg-id="搞笑陈翔六点半" tvg-name="搞笑_陈翔六点半" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",搞笑_陈翔六点半
 http://8.155.43.98:35455/huya/11274154
 #EXTINF:-1 tvg-id="搞笑陈翔六点半" tvg-name="搞笑_陈翔六点半" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",搞笑_陈翔六点半
@@ -2156,6 +2588,10 @@ https://live.metshop.top/huya/11274154
 http://live.metshop.top/huya/11274154?cdn=alicdn
 #EXTINF:-1 tvg-id="搞笑陈翔六点半" tvg-name="搞笑_陈翔六点半" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",搞笑_陈翔六点半
 https://lbds.us.ci/11274154
+#EXTINF:-1 tvg-id="搞笑陈翔六点半" tvg-name="搞笑_陈翔六点半" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",搞笑_陈翔六点半
+http://222.186.39.21:35466/huya/11274154
+#EXTINF:-1 tvg-id="搞笑陈翔六点半" tvg-name="搞笑_陈翔六点半" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",搞笑_陈翔六点半
+http://footyun.top:35455/huya/11274154
 #EXTINF:-1 tvg-id="解说鹿哥电影" tvg-name="解说_鹿哥电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_鹿哥电影
 http://footyun.top:35455/huya/24396360
 #EXTINF:-1 tvg-id="解说鹿哥电影" tvg-name="解说_鹿哥电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_鹿哥电影
@@ -2170,12 +2606,22 @@ http://222.186.39.21:35466/huya/24396360
 http://live.metshop.top/huya/24396360?cdn=alicdn
 #EXTINF:-1 tvg-id="解说鹿哥电影" tvg-name="解说_鹿哥电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_鹿哥电影
 https://live.ottiptv.cc/huya/24396360
+#EXTINF:-1 tvg-id="解说鹿哥电影" tvg-name="解说_鹿哥电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_鹿哥电影
+https://isus.cc/php/huya.php?id=24396360
 #EXTINF:-1 tvg-id="解说斌哥漫说" tvg-name="解说_斌哥漫说" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_斌哥漫说
 http://live.metshop.top/huya/18632116?cdn=alicdn
 #EXTINF:-1 tvg-id="解说斌哥漫说" tvg-name="解说_斌哥漫说" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_斌哥漫说
 https://live.ottiptv.cc/huya/18632116
 #EXTINF:-1 tvg-id="解说斌哥漫说" tvg-name="解说_斌哥漫说" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_斌哥漫说
 https://live.metshop.top/huya/18632116
+#EXTINF:-1 tvg-id="解说斌哥漫说" tvg-name="解说_斌哥漫说" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_斌哥漫说
+http://222.186.39.21:35466/huya/18632116
+#EXTINF:-1 tvg-id="解说斌哥漫说" tvg-name="解说_斌哥漫说" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_斌哥漫说
+http://1.14.124.206:35455/huya/18632116
+#EXTINF:-1 tvg-id="解说斌哥漫说" tvg-name="解说_斌哥漫说" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_斌哥漫说
+https://isus.cc/php/huya.php?id=18632116
+#EXTINF:-1 tvg-id="解说斌哥漫说" tvg-name="解说_斌哥漫说" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_斌哥漫说
+http://footyun.top:35455/huya/18632116
 #EXTINF:-1 tvg-id="解说续哥说电影" tvg-name="解说_续哥说电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_续哥说电影
 http://footyun.top:35455/huya/24396472
 #EXTINF:-1 tvg-id="解说续哥说电影" tvg-name="解说_续哥说电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_续哥说电影
@@ -2190,6 +2636,8 @@ https://live.ottiptv.cc/huya/24396472
 https://live.metshop.top/huya/24396472
 #EXTINF:-1 tvg-id="解说续哥说电影" tvg-name="解说_续哥说电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_续哥说电影
 http://live.metshop.top/huya/24396472?cdn=alicdn
+#EXTINF:-1 tvg-id="解说续哥说电影" tvg-name="解说_续哥说电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_续哥说电影
+https://isus.cc/php/huya.php?id=24396472
 #EXTINF:-1 tvg-id="解说小川侃电影" tvg-name="解说_小川侃电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_小川侃电影
 http://footyun.top:35455/huya/15870999
 #EXTINF:-1 tvg-id="解说小川侃电影" tvg-name="解说_小川侃电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_小川侃电影
@@ -2202,6 +2650,10 @@ https://live.ottiptv.cc/huya/15870999
 https://live.metshop.top/huya/15870999
 #EXTINF:-1 tvg-id="解说小川侃电影" tvg-name="解说_小川侃电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_小川侃电影
 http://live.metshop.top/huya/15870999?cdn=alicdn
+#EXTINF:-1 tvg-id="解说小川侃电影" tvg-name="解说_小川侃电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_小川侃电影
+http://1.14.124.206:35455/huya/15870999
+#EXTINF:-1 tvg-id="解说小川侃电影" tvg-name="解说_小川侃电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_小川侃电影
+https://isus.cc/php/huya.php?id=15870999
 #EXTINF:-1 tvg-id="解说阿良说剧" tvg-name="解说_阿良说剧" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_阿良说剧
 http://live.metshop.top/huya/20488841?cdn=alicdn
 #EXTINF:-1 tvg-id="解说阿良说剧" tvg-name="解说_阿良说剧" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_阿良说剧
@@ -2220,6 +2672,12 @@ http://live.metshop.top/huya/16615910?cdn=alicdn
 https://live.ottiptv.cc/huya/16615910
 #EXTINF:-1 tvg-id="解说鱼丸电影" tvg-name="解说_鱼丸电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_鱼丸电影
 https://lbds.us.ci/16615910
+#EXTINF:-1 tvg-id="解说鱼丸电影" tvg-name="解说_鱼丸电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_鱼丸电影
+http://8.155.43.98:35455/huya/16615910
+#EXTINF:-1 tvg-id="解说鱼丸电影" tvg-name="解说_鱼丸电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_鱼丸电影
+http://222.186.39.21:35466/huya/16615910
+#EXTINF:-1 tvg-id="解说鱼丸电影" tvg-name="解说_鱼丸电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_鱼丸电影
+http://1.14.124.206:35455/huya/16615910
 #EXTINF:-1 tvg-id="解说阿斗说电影" tvg-name="解说_阿斗说电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_阿斗说电影
 http://footyun.top:35455/huya/13303478
 #EXTINF:-1 tvg-id="解说阿斗说电影" tvg-name="解说_阿斗说电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_阿斗说电影
@@ -2248,6 +2706,14 @@ https://live.ottiptv.cc/huya/16028551
 https://live.metshop.top/huya/16028551
 #EXTINF:-1 tvg-id="解说扁豆看电影" tvg-name="解说_扁豆看电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_扁豆看电影
 https://lbds.us.ci/16028551
+#EXTINF:-1 tvg-id="解说扁豆看电影" tvg-name="解说_扁豆看电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_扁豆看电影
+http://8.155.43.98:35455/huya/16028551
+#EXTINF:-1 tvg-id="解说扁豆看电影" tvg-name="解说_扁豆看电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_扁豆看电影
+http://222.186.39.21:35466/huya/16028551
+#EXTINF:-1 tvg-id="解说扁豆看电影" tvg-name="解说_扁豆看电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_扁豆看电影
+http://1.14.124.206:35455/huya/16028551
+#EXTINF:-1 tvg-id="解说扁豆看电影" tvg-name="解说_扁豆看电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_扁豆看电影
+https://isus.cc/php/huya.php?id=16028551
 #EXTINF:-1 tvg-id="解说乌贼说电影" tvg-name="解说_乌贼说电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_乌贼说电影
 http://footyun.top:35455/huya/16604522
 #EXTINF:-1 tvg-id="解说乌贼说电影" tvg-name="解说_乌贼说电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_乌贼说电影
@@ -2262,6 +2728,8 @@ http://222.186.39.21:35466/huya/16604522
 https://live.metshop.top/huya/16604522
 #EXTINF:-1 tvg-id="解说乌贼说电影" tvg-name="解说_乌贼说电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_乌贼说电影
 https://live.ottiptv.cc/huya/16604522
+#EXTINF:-1 tvg-id="解说乌贼说电影" tvg-name="解说_乌贼说电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_乌贼说电影
+https://isus.cc/php/huya.php?id=16604522
 #EXTINF:-1 tvg-id="解说大象放映室" tvg-name="解说_大象放映室" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_大象放映室
 http://1.14.124.206:35455/huya/21277391
 #EXTINF:-1 tvg-id="解说大象放映室" tvg-name="解说_大象放映室" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_大象放映室
@@ -2274,6 +2742,12 @@ https://live.ottiptv.cc/huya/21277391
 https://live.metshop.top/huya/21277391
 #EXTINF:-1 tvg-id="解说大象放映室" tvg-name="解说_大象放映室" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_大象放映室
 https://lbds.us.ci/21277391
+#EXTINF:-1 tvg-id="解说大象放映室" tvg-name="解说_大象放映室" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_大象放映室
+http://8.155.43.98:35455/huya/21277391
+#EXTINF:-1 tvg-id="解说大象放映室" tvg-name="解说_大象放映室" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_大象放映室
+https://isus.cc/php/huya.php?id=21277391
+#EXTINF:-1 tvg-id="解说大象放映室" tvg-name="解说_大象放映室" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_大象放映室
+http://footyun.top:35455/huya/21277391
 #EXTINF:-1 tvg-id="解说科幻梦工场" tvg-name="解说_科幻梦工场" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_科幻梦工场
 http://footyun.top:35455/huya/15152155
 #EXTINF:-1 tvg-id="解说科幻梦工场" tvg-name="解说_科幻梦工场" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_科幻梦工场
@@ -2298,6 +2772,8 @@ https://live.ottiptv.cc/huya/16144175
 http://live.metshop.top/huya/16144175?cdn=alicdn
 #EXTINF:-1 tvg-id="解说亮哥讲电影" tvg-name="解说_亮哥讲电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_亮哥讲电影
 https://live.metshop.top/huya/16144175
+#EXTINF:-1 tvg-id="解说亮哥讲电影" tvg-name="解说_亮哥讲电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_亮哥讲电影
+http://footyun.top:35455/huya/16144175
 #EXTINF:-1 tvg-id="解说越哥说电影" tvg-name="解说_越哥说电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_越哥说电影
 http://222.186.39.21:35466/huya/15894162
 #EXTINF:-1 tvg-id="解说越哥说电影" tvg-name="解说_越哥说电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_越哥说电影
@@ -2308,6 +2784,8 @@ https://live.ottiptv.cc/huya/15894162
 https://live.metshop.top/huya/15894162
 #EXTINF:-1 tvg-id="解说越哥说电影" tvg-name="解说_越哥说电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_越哥说电影
 https://lbds.us.ci/15894162
+#EXTINF:-1 tvg-id="解说越哥说电影" tvg-name="解说_越哥说电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_越哥说电影
+http://1.14.124.206:35455/huya/15894162
 #EXTINF:-1 tvg-id="解说小冉看电影" tvg-name="解说_小冉看电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_小冉看电影
 http://1.14.124.206:35455/huya/17341907
 #EXTINF:-1 tvg-id="解说小冉看电影" tvg-name="解说_小冉看电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_小冉看电影
@@ -2322,6 +2800,8 @@ http://live.metshop.top/huya/17341907?cdn=alicdn
 http://222.186.39.21:35466/huya/17341907
 #EXTINF:-1 tvg-id="解说小冉看电影" tvg-name="解说_小冉看电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_小冉看电影
 https://live.metshop.top/huya/17341907
+#EXTINF:-1 tvg-id="解说小冉看电影" tvg-name="解说_小冉看电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_小冉看电影
+https://isus.cc/php/huya.php?id=17341907
 #EXTINF:-1 tvg-id="解说阿翔说电影" tvg-name="解说_阿翔说电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_阿翔说电影
 http://222.186.39.21:35466/huya/16868935
 #EXTINF:-1 tvg-id="解说阿翔说电影" tvg-name="解说_阿翔说电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_阿翔说电影
@@ -2336,6 +2816,8 @@ http://footyun.top:35455/huya/16868935
 https://live.ottiptv.cc/huya/16868935
 #EXTINF:-1 tvg-id="解说阿翔说电影" tvg-name="解说_阿翔说电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_阿翔说电影
 http://live.metshop.top/huya/16868935?cdn=alicdn
+#EXTINF:-1 tvg-id="解说阿翔说电影" tvg-name="解说_阿翔说电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_阿翔说电影
+https://isus.cc/php/huya.php?id=16868935
 #EXTINF:-1 tvg-id="解说涵哥评电影" tvg-name="解说_涵哥评电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_涵哥评电影
 http://222.186.39.21:35466/huya/16865726
 #EXTINF:-1 tvg-id="解说涵哥评电影" tvg-name="解说_涵哥评电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_涵哥评电影
@@ -2346,6 +2828,14 @@ https://live.metshop.top/huya/16865726
 https://lbds.us.ci/16865726
 #EXTINF:-1 tvg-id="解说涵哥评电影" tvg-name="解说_涵哥评电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_涵哥评电影
 http://live.metshop.top/huya/16865726?cdn=alicdn
+#EXTINF:-1 tvg-id="解说涵哥评电影" tvg-name="解说_涵哥评电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_涵哥评电影
+http://8.155.43.98:35455/huya/16865726
+#EXTINF:-1 tvg-id="解说涵哥评电影" tvg-name="解说_涵哥评电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_涵哥评电影
+http://1.14.124.206:35455/huya/16865726
+#EXTINF:-1 tvg-id="解说涵哥评电影" tvg-name="解说_涵哥评电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_涵哥评电影
+https://isus.cc/php/huya.php?id=16865726
+#EXTINF:-1 tvg-id="解说涵哥评电影" tvg-name="解说_涵哥评电影" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",解说_涵哥评电影
+http://footyun.top:35455/huya/16865726
 #EXTINF:-1 tvg-id="五福星" tvg-name="五福星" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",五福星
 http://222.186.39.21:35466/huya/11282233
 #EXTINF:-1 tvg-id="五福星" tvg-name="五福星" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",五福星
@@ -2358,6 +2848,10 @@ http://1.14.124.206:35455/huya/11282233
 http://live.metshop.top/huya/11282233?cdn=alicdn
 #EXTINF:-1 tvg-id="五福星" tvg-name="五福星" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",五福星
 https://live.ottiptv.cc/huya/11282233
+#EXTINF:-1 tvg-id="五福星" tvg-name="五福星" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",五福星
+http://8.155.43.98:35455/huya/11282233
+#EXTINF:-1 tvg-id="五福星" tvg-name="五福星" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",五福星
+http://footyun.top:35455/huya/11282233
 #EXTINF:-1 tvg-id="徐克" tvg-name="徐克" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",徐克
 http://222.186.39.21:35466/huya/11352909
 #EXTINF:-1 tvg-id="徐克" tvg-name="徐克" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",徐克
@@ -2366,6 +2860,8 @@ https://live.ottiptv.cc/huya/11352909
 http://live.metshop.top/huya/11352909?cdn=alicdn
 #EXTINF:-1 tvg-id="徐克" tvg-name="徐克" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",徐克
 https://live.metshop.top/huya/11352909
+#EXTINF:-1 tvg-id="徐克" tvg-name="徐克" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",徐克
+https://isus.cc/php/huya.php?id=11352909
 #EXTINF:-1 tvg-id="斗罗大陆" tvg-name="斗罗大陆" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",斗罗大陆
 http://8.155.43.98:35455/huya/11352906
 #EXTINF:-1 tvg-id="斗罗大陆" tvg-name="斗罗大陆" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",斗罗大陆
@@ -2376,6 +2872,10 @@ https://live.ottiptv.cc/huya/11352906
 https://live.metshop.top/huya/11352906
 #EXTINF:-1 tvg-id="斗罗大陆" tvg-name="斗罗大陆" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",斗罗大陆
 http://live.metshop.top/huya/11352906?cdn=alicdn
+#EXTINF:-1 tvg-id="斗罗大陆" tvg-name="斗罗大陆" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",斗罗大陆
+http://222.186.39.21:35466/huya/11352906
+#EXTINF:-1 tvg-id="斗罗大陆" tvg-name="斗罗大陆" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",斗罗大陆
+https://isus.cc/php/huya.php?id=11352906
 #EXTINF:-1 tvg-id="iptv热播剧场" tvg-name="华数热播剧场" tvg-logo="" group-title="轮播频道",华数热播剧场
 http://183.30.201.240:10002/rtp/239.77.0.106:5146
 #EXTINF:-1 tvg-id="iptv热播剧场" tvg-name="华数热播剧场" tvg-logo="" group-title="轮播频道",华数热播剧场
@@ -2468,8 +2968,6 @@ http://113.95.135.60:8188/rtp/239.77.1.83:5146
 http://219.156.32.34:4022/rtp/225.1.4.185:1240
 #EXTINF:-1 tvg-id="华数谍战剧场" tvg-name="华数谍战剧场" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",华数谍战剧场
 http://116.2.169.166:4010/rtp/232.0.0.203:1234
-#EXTINF:-1 tvg-id="老广的味道" tvg-name="老广的味道" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",老广的味道
-http://cfss.cc/cdn/yy/1354932375.flv
 #EXTINF:-1 tvg-id="老广的味道" tvg-name="老广的味道" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",老广的味道
 http://footyun.top:35455/yy/1354932375
 #EXTINF:-1 tvg-id="老广的味道" tvg-name="老广的味道" tvg-logo="https://images.unsplash.com/photo-1598257006458-087169a1f08d?auto=format&fit=crop&w=48&h=48&q=80" group-title="轮播频道",老广的味道
